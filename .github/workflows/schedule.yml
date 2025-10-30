@@ -5,7 +5,7 @@ on:
       - webhook
   workflow_dispatch:
   schedule:
-    - cron: "50 * * * *"
+    - cron: "59 59 * * * *"
 
 jobs:
   Release:
