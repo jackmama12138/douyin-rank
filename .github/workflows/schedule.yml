@@ -74,3 +74,4 @@ jobs:
             git push origin master
           else
             echo "No changes to commit"
+          fi
