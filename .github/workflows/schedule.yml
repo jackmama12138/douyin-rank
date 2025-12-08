@@ -9,7 +9,7 @@ on:
 
 jobs:
   Release:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Install Node.js, NPM
         uses: actions/setup-node@v3
