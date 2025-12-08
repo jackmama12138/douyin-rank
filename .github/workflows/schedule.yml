@@ -1,76 +1,56 @@
 name: Schedule
-
 on:
   repository_dispatch:
     types:
       - webhook
   workflow_dispatch:
   schedule:
-    - cron: "50 * * * *" # 每小时50分触发
+    - cron: "50 * * * *"
 
 jobs:
   Release:
-    runs-on: ubuntu-latest  # 使用 Linux runner，加快文件操作
-
+    runs-on: windows-latest
     steps:
-      # 安装 Node.js
-      - name: Install Node.js
+      - name: Install Node.js, NPM
         uses: actions/setup-node@v3
         with:
           node-version: 16
 
-      # Checkout 仓库（只拉最新提交）
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Check out branch
+        uses: actions/checkout@v2
         with:
           ref: master
-          fetch-depth: 1  # 浅克隆
-          # sparse checkout 可以只拉必要文件，避免 src/raw 太多文件拖慢
-          sparse-checkout: |
-            src/index.js
-            package.json
-            package-lock.json
 
-      # 配置 Git 用户
       - name: Configure Git
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "github"
+          git config --local core.autocrlf false
 
-      # 缓存 Node.js 模块
       - name: Cache Node.js modules
         id: cache-modules
         uses: actions/cache@v4
         with:
-          path: |
-            ~/.npm
-            node_modules
+          path: node_modules
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
 
-      # 安装依赖
       - name: Install dependencies
         if: steps.cache-modules.outputs.cache-hit != 'true'
         run: npm ci
 
-      # 构建数据
       - name: Build Data
         env:
           ANCHOR_ID: ${{ secrets.ANCHOR_ID }}
           ROOM_ID: ${{ secrets.ROOM_ID }}
           MS_TOKEN: ${{ secrets.MS_TOKEN }}
           A_BOGUS: ${{ secrets.A_BOGUS }}
-        run: npm run start
-
-      # 提交源码（不提交 src/raw）到 GitHub
-      - name: Commit & Push
-        shell: bash
         run: |
-          git add src/index.js package.json package-lock.json
-          if ! git diff-index --quiet HEAD --; then
-            git commit -m "Update Data"
-            git push origin master
-          else
-            echo "No changes to commit"
-          fi
+          npm run start
+
+      - name: Push to GitHub
+        run: |
+          git add src
+          git commit -m "Update Data"
+          git push -u origin master
