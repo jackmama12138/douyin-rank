@@ -10,21 +10,22 @@ on:
 
 jobs:
   Release:
-    runs-on: ubuntu-latest  # Linux runner 文件系统快
+    runs-on: ubuntu-latest  # 使用 Linux runner，加快文件操作
 
     steps:
       # 安装 Node.js
-      - name: Setup Node.js
+      - name: Install Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 16
 
-      # Checkout 仓库 (只拉必要目录)
-      - name: Checkout code (sparse)
+      # Checkout 仓库（只拉最新提交）
+      - name: Checkout code
         uses: actions/checkout@v3
         with:
           ref: master
-          fetch-depth: 1   # 只拉最新提交
+          fetch-depth: 1  # 浅克隆
+          # sparse checkout 可以只拉必要文件，避免 src/raw 太多文件拖慢
           sparse-checkout: |
             src/index.js
             package.json
@@ -36,7 +37,7 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "github"
 
-      # 缓存 Node.js 依赖
+      # 缓存 Node.js 模块
       - name: Cache Node.js modules
         id: cache-modules
         uses: actions/cache@v4
@@ -53,25 +54,22 @@ jobs:
         if: steps.cache-modules.outputs.cache-hit != 'true'
         run: npm ci
 
-      # 构建数据（JSON 输出到临时目录，不提交 Git）
+      # 构建数据
       - name: Build Data
         env:
           ANCHOR_ID: ${{ secrets.ANCHOR_ID }}
           ROOM_ID: ${{ secrets.ROOM_ID }}
           MS_TOKEN: ${{ secrets.MS_TOKEN }}
           A_BOGUS: ${{ secrets.A_BOGUS }}
-        run: |
-          mkdir -p /tmp/data
-          node src/index.js /tmp/data
-          # 可选：上传 /tmp/data 到云端，如果需要保留历史
+        run: npm run start
 
-      # Git 只提交源码更新，不提交 JSON
-      - name: Commit & Push code
+      # 提交源码（不提交 src/raw）到 GitHub
+      - name: Commit & Push
+        shell: bash
         run: |
-          git add src/index.js
-          if ! git diff-index --quiet HEAD; then
-            git commit -m "Update code"
+          git add src/index.js package.json package-lock.json
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Update Data"
             git push origin master
           else
             echo "No changes to commit"
-          fi
