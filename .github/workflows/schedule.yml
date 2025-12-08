@@ -10,7 +10,7 @@ on:
 
 jobs:
   Release:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest  # Linux runner 文件系统快
 
     steps:
       # 安装 Node.js
@@ -19,14 +19,14 @@ jobs:
         with:
           node-version: 16
 
-      # Checkout 仓库 (只拉 src/ 和 package.json)
+      # Checkout 仓库 (只拉必要目录)
       - name: Checkout code (sparse)
         uses: actions/checkout@v3
         with:
           ref: master
-          fetch-depth: 1
+          fetch-depth: 1   # 只拉最新提交
           sparse-checkout: |
-            src/
+            src/index.js
             package.json
             package-lock.json
 
@@ -35,7 +35,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "github"
-          git config --local core.autocrlf false
 
       # 缓存 Node.js 依赖
       - name: Cache Node.js modules
@@ -54,22 +53,24 @@ jobs:
         if: steps.cache-modules.outputs.cache-hit != 'true'
         run: npm ci
 
-      # 构建数据
+      # 构建数据（JSON 输出到临时目录，不提交 Git）
       - name: Build Data
         env:
           ANCHOR_ID: ${{ secrets.ANCHOR_ID }}
           ROOM_ID: ${{ secrets.ROOM_ID }}
           MS_TOKEN: ${{ secrets.MS_TOKEN }}
           A_BOGUS: ${{ secrets.A_BOGUS }}
-        run: npm run start
-
-      # 只有有变化才 commit/push
-      - name: Commit & Push
         run: |
-          git add src
+          mkdir -p /tmp/data
+          node src/index.js /tmp/data
+          # 可选：上传 /tmp/data 到云端，如果需要保留历史
+
+      # Git 只提交源码更新，不提交 JSON
+      - name: Commit & Push code
+        run: |
+          git add src/index.js
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Update Data"
+            git commit -m "Update code"
             git push origin master
           else
             echo "No changes to commit"
-          fi
