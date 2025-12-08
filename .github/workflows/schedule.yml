@@ -1,56 +1,75 @@
 name: Schedule
+
 on:
   repository_dispatch:
     types:
       - webhook
   workflow_dispatch:
   schedule:
-    - cron: "50 * * * *"
+    - cron: "50 * * * *" # 每小时50分触发
 
 jobs:
   Release:
     runs-on: windows-latest
+
     steps:
-      - name: Install Node.js, NPM
+      # 安装 Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 16
 
-      - name: Check out branch
-        uses: actions/checkout@v2
+      # Checkout 仓库 (只拉 src/ 和 package.json)
+      - name: Checkout code (sparse)
+        uses: actions/checkout@v3
         with:
           ref: master
+          fetch-depth: 1
+          sparse-checkout: |
+            src/
+            package.json
+            package-lock.json
 
+      # 配置 Git 用户
       - name: Configure Git
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "github"
           git config --local core.autocrlf false
 
+      # 缓存 Node.js 依赖
       - name: Cache Node.js modules
         id: cache-modules
         uses: actions/cache@v4
         with:
-          path: node_modules
+          path: |
+            ~/.npm
+            node_modules
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
 
+      # 安装依赖
       - name: Install dependencies
         if: steps.cache-modules.outputs.cache-hit != 'true'
         run: npm ci
 
+      # 构建数据
       - name: Build Data
         env:
           ANCHOR_ID: ${{ secrets.ANCHOR_ID }}
           ROOM_ID: ${{ secrets.ROOM_ID }}
           MS_TOKEN: ${{ secrets.MS_TOKEN }}
           A_BOGUS: ${{ secrets.A_BOGUS }}
-        run: |
-          npm run start
+        run: npm run start
 
-      - name: Push to GitHub
+      # 只有有变化才 commit/push
+      - name: Commit & Push
         run: |
           git add src
-          git commit -m "Update Data"
-          git push -u origin master
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update Data"
+            git push origin master
+          else
+            echo "No changes to commit"
+          fi
