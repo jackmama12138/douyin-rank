@@ -1,0 +1,2782 @@
+{
+  "base_info": {
+    "end_time": 1772798400,
+    "start_time": 1772794800
+  },
+  "elem_list": [
+    {
+      "author_info": {
+        "name": "疯少"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_6165207e58d3ee854f1560003de0aeaf?x-expires=1772816400&x-signature=pME7xW9alUouJYP5RFcXwukR9tk%3D&from=2622231899",
+        "id": "7614095281679862528",
+        "link": "snssdk1128://live?room_id=7614095281679862528",
+        "title": "新年快乐"
+      },
+      "statistic_info": {
+        "hot_value": 9157602
+      }
+    },
+    {
+      "author_info": {
+        "name": "大司马解说（每晚19点直播）"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/aweme-avatar/mosaic-legacy_72970031b9c76656b487?x-expires=1772816400&x-signature=ARjpnUPng3JFfHKiQxi%2BUOS3j4w%3D&from=2622231899",
+        "id": "7614095276055628595",
+        "link": "snssdk1128://live?room_id=7614095276055628595",
+        "title": "刁德一归来！！"
+      },
+      "statistic_info": {
+        "hot_value": 3949312
+      }
+    },
+    {
+      "author_info": {
+        "name": "小邵闯地球"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7381409771318020903?x-expires=1772816400&x-signature=5jAfhHpAg9oDQCHLdaTb8nT0NI8%3D&from=2622231899",
+        "id": "7614090483307907903",
+        "link": "snssdk1128://live?room_id=7614090483307907903",
+        "title": "女生开货车旅行"
+      },
+      "statistic_info": {
+        "hot_value": 3492348
+      }
+    },
+    {
+      "author_info": {
+        "name": "🌈唐艺(今晚7点海澜飞马开门红)"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7190683574186462009?x-expires=1772816400&x-signature=0Fb8LugQhjorrWo0kyAhjPBC%2BnU%3D&from=2622231899",
+        "id": "7614095845641751359",
+        "link": "snssdk1128://live?room_id=7614095845641751359",
+        "title": "唐艺大舞台，有才你就来！"
+      },
+      "statistic_info": {
+        "hot_value": 926418
+      }
+    },
+    {
+      "author_info": {
+        "name": "張旭家有五十只圣伯纳"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7464600022643313444?x-expires=1772816400&x-signature=fAEcQF0nhAQCJXzlJG0EUapSy%2FI%3D&from=2622231899",
+        "id": "7614091842371881770",
+        "link": "snssdk1128://live?room_id=7614091842371881770",
+        "title": "熊二做美甲"
+      },
+      "statistic_info": {
+        "hot_value": 778132
+      }
+    },
+    {
+      "author_info": {
+        "name": "DL.毒"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7540646926518094607?x-expires=1772816400&x-signature=X4phNs9BJZqzZFTVtSlY77wv7uo%3D&from=2622231899",
+        "id": "7614098956464818998",
+        "link": "snssdk1128://live?room_id=7614098956464818998",
+        "title": "毒正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 579343
+      }
+    },
+    {
+      "author_info": {
+        "name": "丰州大舞台报道（中标）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7597951016331807497?x-expires=1772816400&x-signature=41oaSFp%2FNiJgc1jU2QKjqLHwuiw%3D&from=2622231899",
+        "id": "7614095735004367651",
+        "link": "snssdk1128://live?room_id=7614095735004367651",
+        "title": "丰州大舞台，有才你就来"
+      },
+      "statistic_info": {
+        "hot_value": 455239
+      }
+    },
+    {
+      "author_info": {
+        "name": "🌙白亚光🌙（团队招艺人）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7593243254917778214?x-expires=1772816400&x-signature=jHlcyOzyWGgLxwSl%2FYfj2x%2FBKSg%3D&from=2622231899",
+        "id": "7614095532386536198",
+        "link": "snssdk1128://live?room_id=7614095532386536198",
+        "title": "白亚光大舞台，有才你就来"
+      },
+      "statistic_info": {
+        "hot_value": 380191
+      }
+    },
+    {
+      "author_info": {
+        "name": "宋老三"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_50a48cf5cb079f248b5eeb5649b73920?x-expires=1772816400&x-signature=PslrMoes1g6iZG1qPw%2F3b3bajBs%3D&from=2622231899",
+        "id": "7614095671842376463",
+        "link": "snssdk1128://live?room_id=7614095671842376463",
+        "title": "新项目超级好玩"
+      },
+      "statistic_info": {
+        "hot_value": 332764
+      }
+    },
+    {
+      "author_info": {
+        "name": "画子白文化传媒"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7607024701773564726?x-expires=1772816400&x-signature=eGEm1LFxN05%2Fy0I8dBa6mdkILgg%3D&from=2622231899",
+        "id": "7614095648861866788",
+        "link": "snssdk1128://live?room_id=7614095648861866788",
+        "title": "百姓大舞台"
+      },
+      "statistic_info": {
+        "hot_value": 279284
+      }
+    },
+    {
+      "author_info": {
+        "name": "玛莎⁹⁰⁹新歌《谁的人生不是笑中带着泪》"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7371684279333587762?x-expires=1772816400&x-signature=twi%2F4To6EC9XygC7HoGsABfdpRg%3D&from=2622231899",
+        "id": "7614079982230440740",
+        "link": "snssdk1128://live?room_id=7614079982230440740",
+        "title": "和美乡村振兴，龙口诸由淳于村，"
+      },
+      "statistic_info": {
+        "hot_value": 240849
+      }
+    },
+    {
+      "author_info": {
+        "name": "小青妹妹"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7553162946705132303?x-expires=1772816400&x-signature=%2FpEzv0peL4iX9fWeAB1Xf9wxrEw%3D&from=2622231899",
+        "id": "7614088826952223530",
+        "link": "snssdk1128://live?room_id=7614088826952223530",
+        "title": "新年快乐。"
+      },
+      "statistic_info": {
+        "hot_value": 236601
+      }
+    },
+    {
+      "author_info": {
+        "name": "小五哥🎹"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7400321678204717862?x-expires=1772816400&x-signature=F1yEtXz%2FXTDXVO%2FP4ivFoX9jed8%3D&from=2622231899",
+        "id": "7614095721504901897",
+        "link": "snssdk1128://live?room_id=7614095721504901897",
+        "title": "女神节快乐"
+      },
+      "statistic_info": {
+        "hot_value": 193748
+      }
+    },
+    {
+      "author_info": {
+        "name": "少杰⁹⁹⁹⁵"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7595187070386228019?x-expires=1772816400&x-signature=bSO8A%2BjvYsDaaYEDQ08%2BWguOEKw%3D&from=2622231899",
+        "id": "7614080448263719723",
+        "link": "snssdk1128://live?room_id=7614080448263719723",
+        "title": "少杰"
+      },
+      "statistic_info": {
+        "hot_value": 169056
+      }
+    },
+    {
+      "author_info": {
+        "name": "𝑇. 四季ˢʲ🐍"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7566862708386482963?x-expires=1772816400&x-signature=5gP6MLyqLy%2FMLtURIuIkrE4Ra0g%3D&from=2622231899",
+        "id": "7614087601688546054",
+        "link": "snssdk1128://live?room_id=7614087601688546054",
+        "title": "你好～"
+      },
+      "statistic_info": {
+        "hot_value": 163519
+      }
+    },
+    {
+      "author_info": {
+        "name": "小刘爱工作"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7400723686778587939?x-expires=1772816400&x-signature=c0m6ipcYYiUOPdipxY1R2JYO8Iw%3D&from=2622231899",
+        "id": "7614094387315870506",
+        "link": "snssdk1128://live?room_id=7614094387315870506",
+        "title": "君子论迹不论心"
+      },
+      "statistic_info": {
+        "hot_value": 155610
+      }
+    },
+    {
+      "author_info": {
+        "name": "唐三（525）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7472373654790130484?x-expires=1772816400&x-signature=0iiuoyo3tEKFIJAN7oMplDs2vHY%3D&from=2622231899",
+        "id": "7614098050348321578",
+        "link": "snssdk1128://live?room_id=7614098050348321578",
+        "title": "百强第二"
+      },
+      "statistic_info": {
+        "hot_value": 143731
+      }
+    },
+    {
+      "author_info": {
+        "name": "皮特正能量¹⁰⁹⁹"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7562120449692125967?x-expires=1772816400&x-signature=213wco5HIkdQpr4BWibpvZJQA60%3D&from=2622231899",
+        "id": "7614095705994169103",
+        "link": "snssdk1128://live?room_id=7614095705994169103",
+        "title": "刘皮特 安踏专场"
+      },
+      "statistic_info": {
+        "hot_value": 140196
+      }
+    },
+    {
+      "author_info": {
+        "name": "天运星"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7609601007357938495?x-expires=1772816400&x-signature=KqLflgt1jPIVUMlno5bV4C4Y9Gk%3D&from=2622231899",
+        "id": "7614092204176427812",
+        "link": "snssdk1128://live?room_id=7614092204176427812",
+        "title": "他也来团播了？"
+      },
+      "statistic_info": {
+        "hot_value": 124678
+      }
+    },
+    {
+      "author_info": {
+        "name": "青春无悔🐦‍🔥"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7509419913979743002?x-expires=1772816400&x-signature=xEd9Wu%2F2yduerCRXC%2FFvLyg24II%3D&from=2622231899",
+        "id": "7614095849630632731",
+        "link": "snssdk1128://live?room_id=7614095849630632731",
+        "title": "80后的春光灿烂猪"
+      },
+      "statistic_info": {
+        "hot_value": 114823
+      }
+    },
+    {
+      "author_info": {
+        "name": "三江哥《三江大舞台》"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7586183270430558982?x-expires=1772816400&x-signature=BGISvXqrHmZBIxcl5W7Uq2mnp%2B4%3D&from=2622231899",
+        "id": "7614087953043802922",
+        "link": "snssdk1128://live?room_id=7614087953043802922",
+        "title": "三江哥《三江大舞台》正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 109524
+      }
+    },
+    {
+      "author_info": {
+        "name": "一笑zy"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_8fd3eff529328f55a4f13b605aba1509?x-expires=1772816400&x-signature=sqtbbt8MTwxtQeGvOIGSAEto3A0%3D&from=2622231899",
+        "id": "7614095333731306266",
+        "link": "snssdk1128://live?room_id=7614095333731306266",
+        "title": "双尊的香香打造目标困难狄瑞吉主C"
+      },
+      "statistic_info": {
+        "hot_value": 102956
+      }
+    },
+    {
+      "author_info": {
+        "name": "宜宾范范628文化传媒"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7611145046583069480?x-expires=1772816400&x-signature=s%2BwkLPyVLsO6q4JruNv9SPETPHM%3D&from=2622231899",
+        "id": "7614080545106037513",
+        "link": "snssdk1128://live?room_id=7614080545106037513",
+        "title": "宜宾范冰冰正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 95707
+      }
+    },
+    {
+      "author_info": {
+        "name": "小远不太远"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7588474626552941321?x-expires=1772816400&x-signature=XpCqwiFfKSdHxiUQCNAaKY7WRxA%3D&from=2622231899",
+        "id": "7614080210383670054",
+        "link": "snssdk1128://live?room_id=7614080210383670054",
+        "title": "大凉山之行"
+      },
+      "statistic_info": {
+        "hot_value": 92142
+      }
+    },
+    {
+      "author_info": {
+        "name": "乡村趣事（李支书）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/tos-cn-i-0813_bea5b2eda1a840d68da1ba18d6b2d0bb?x-expires=1772816400&x-signature=KODMDudyR84JGHm4p%2BwfWdUsbVs%3D&from=2622231899",
+        "id": "7614095359337630527",
+        "link": "snssdk1128://live?room_id=7614095359337630527",
+        "title": "乡村趣事直播间开播啦"
+      },
+      "statistic_info": {
+        "hot_value": 88424
+      }
+    },
+    {
+      "author_info": {
+        "name": "户外大舞台"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_593a9b37dda369a62db8385f14c9ee0a?x-expires=1772816400&x-signature=A%2BFOah6%2FRoU%2B4aFzOkyxo57lBFU%3D&from=2622231899",
+        "id": "7614091233119488809",
+        "link": "snssdk1128://live?room_id=7614091233119488809",
+        "title": "大吴～小屋🌵正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 82501
+      }
+    },
+    {
+      "author_info": {
+        "name": "小瓶盖🍼（迎财神）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7468248505631525670?x-expires=1772816400&x-signature=x%2BEuhjLbIVaHV6cjDEzlnUjfKCw%3D&from=2622231899",
+        "id": "7614080257422871334",
+        "link": "snssdk1128://live?room_id=7614080257422871334",
+        "title": "听说这人唱歌特好听"
+      },
+      "statistic_info": {
+        "hot_value": 82011
+      }
+    },
+    {
+      "author_info": {
+        "name": "龙浩天🐲(酉阳桃花源摆手堂直播)"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7453704876292492095?x-expires=1772816400&x-signature=cBTc3IJXYsIrndPRoANHwKXlZtA%3D&from=2622231899",
+        "id": "7614085374494706459",
+        "link": "snssdk1128://live?room_id=7614085374494706459",
+        "title": "亲生兄妹！！！"
+      },
+      "statistic_info": {
+        "hot_value": 81894
+      }
+    },
+    {
+      "author_info": {
+        "name": "美人🎤"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7407857959939836682?x-expires=1772816400&x-signature=iGhHE2f%2BYXhJhDiDEJ%2FNWqrnGvU%3D&from=2622231899",
+        "id": "7614095648861768484",
+        "link": "snssdk1128://live?room_id=7614095648861768484",
+        "title": "不是不在乎是真的没招喽"
+      },
+      "statistic_info": {
+        "hot_value": 80635
+      }
+    },
+    {
+      "author_info": {
+        "name": "元宝（植物大战僵尸）"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7232486898696112952?x-expires=1772816400&x-signature=AkjozZBESZnRvY96Ndj%2BZb2LsMs%3D&from=2622231899",
+        "id": "7614082958864960292",
+        "link": "snssdk1128://live?room_id=7614082958864960292",
+        "title": "砸罐子全民赏金赛主播输了发福袋"
+      },
+      "statistic_info": {
+        "hot_value": 79548
+      }
+    },
+    {
+      "author_info": {
+        "name": "陈雅森的音乐会"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7583665890223295258?x-expires=1772816400&x-signature=M%2FugoUu5G1rdQKy7cWExbXUzNm4%3D&from=2622231899",
+        "id": "7614095762070326079",
+        "link": "snssdk1128://live?room_id=7614095762070326079",
+        "title": "雅森音乐会"
+      },
+      "statistic_info": {
+        "hot_value": 76794
+      }
+    },
+    {
+      "author_info": {
+        "name": "民歌-鲍鲍✨ ⁷²⁹"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_af6d5e2ab67671d9350ab0a263422532?x-expires=1772816400&x-signature=0%2F%2FEDmI769KeM5RCgLB6yvOOdz8%3D&from=2622231899",
+        "id": "7614088000779160366",
+        "link": "snssdk1128://live?room_id=7614088000779160366",
+        "title": "爱是永恒的旋律"
+      },
+      "statistic_info": {
+        "hot_value": 75893
+      }
+    },
+    {
+      "author_info": {
+        "name": "李宁儿🎙️"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7468574460350712602?x-expires=1772816400&x-signature=yT0c5EhkTj%2FKnTO8et7%2FiUP%2F2VY%3D&from=2622231899",
+        "id": "7614095925329300274",
+        "link": "snssdk1128://live?room_id=7614095925329300274",
+        "title": "李吼吼开播了"
+      },
+      "statistic_info": {
+        "hot_value": 74556
+      }
+    },
+    {
+      "author_info": {
+        "name": "河南三妹（晚6点直播）"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/tos-cn-i-0813_565338d771c44fbaa3a9145193ac9910?x-expires=1772816400&x-signature=1kaaUl3VxnsNRhJYS97SzDYj31o%3D&from=2622231899",
+        "id": "7614080268390927139",
+        "link": "snssdk1128://live?room_id=7614080268390927139",
+        "title": "豫见三妹，感恩陪伴！"
+      },
+      "statistic_info": {
+        "hot_value": 72719
+      }
+    },
+    {
+      "author_info": {
+        "name": "云中孤客☁⁶²⁸⁷"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7477036977334864651?x-expires=1772816400&x-signature=Q0NuXiPiJZOTXzhKwExw9k%2BxRZM%3D&from=2622231899",
+        "id": "7614097053349956386",
+        "link": "snssdk1128://live?room_id=7614097053349956386",
+        "title": "外面看得过瘾吗？记得点个赞"
+      },
+      "statistic_info": {
+        "hot_value": 71729
+      }
+    },
+    {
+      "author_info": {
+        "name": "小甜三月旺旺旺🌱"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7600334625139723008?x-expires=1772816400&x-signature=EPKp1i6pF8V879xXr%2FwMub%2BsSgA%3D&from=2622231899",
+        "id": "7614070561073089321",
+        "link": "snssdk1128://live?room_id=7614070561073089321",
+        "title": "✈️得"
+      },
+      "statistic_info": {
+        "hot_value": 70983
+      }
+    },
+    {
+      "author_info": {
+        "name": "𝑇.崔十八¹⁸"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7515434368006179622?x-expires=1772816400&x-signature=Vcnz4XgiskJSX4WfzM1nGOExokI%3D&from=2622231899",
+        "id": "7614092620209982246",
+        "link": "snssdk1128://live?room_id=7614092620209982246",
+        "title": "这位奶爸会唱歌！"
+      },
+      "statistic_info": {
+        "hot_value": 67938
+      }
+    },
+    {
+      "author_info": {
+        "name": "雄先生"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7557726039244262196?x-expires=1772816400&x-signature=d34Xm5Hq7l%2FvfidiWScJ7gGnk0E%3D&from=2622231899",
+        "id": "7614096103952190218",
+        "link": "snssdk1128://live?room_id=7614096103952190218",
+        "title": "落魄的总裁"
+      },
+      "statistic_info": {
+        "hot_value": 67341
+      }
+    },
+    {
+      "author_info": {
+        "name": "汐雯🎤（正月十八生日版）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7419885960927726373?x-expires=1772816400&x-signature=WhFb3kNeJ47w05n6w4kLpaoM3T4%3D&from=2622231899",
+        "id": "7614092075186408198",
+        "link": "snssdk1128://live?room_id=7614092075186408198",
+        "title": "刷到我证明你有品位"
+      },
+      "statistic_info": {
+        "hot_value": 65414
+      }
+    },
+    {
+      "author_info": {
+        "name": "我叫温言（1V4)"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_36a6ad1e95007be42d2815b2a265e9b5?x-expires=1772816400&x-signature=WpTvZPf6g%2FOVTAeVHc9mSSmJzHI%3D&from=2622231899",
+        "id": "7614079899556530944",
+        "link": "snssdk1128://live?room_id=7614079899556530944",
+        "title": "又菜又爱，嘴强王者，下饭主播"
+      },
+      "statistic_info": {
+        "hot_value": 65121
+      }
+    },
+    {
+      "author_info": {
+        "name": "云顶博哥"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c000-ce_owfZA9FCspfiEwEkzirFqA8DCpAMpI9mxwoAAE?x-expires=1772816400&x-signature=gNfyPAvpUCs9ZxXl8%2FQr5eq%2B%2BxU%3D&from=2622231899",
+        "id": "7614095180300913435",
+        "link": "snssdk1128://live?room_id=7614095180300913435",
+        "title": "福星极限连败！把把四星5费！！"
+      },
+      "statistic_info": {
+        "hot_value": 63634
+      }
+    },
+    {
+      "author_info": {
+        "name": "夏一一¹¹⁸"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7591430199774923520?x-expires=1772816400&x-signature=rAFNZXfB1Ys4cwUjH41WWh3zQaU%3D&from=2622231899",
+        "id": "7614091780986899236",
+        "link": "snssdk1128://live?room_id=7614091780986899236",
+        "title": "明明可以靠颜值 但是没必要"
+      },
+      "statistic_info": {
+        "hot_value": 62238
+      }
+    },
+    {
+      "author_info": {
+        "name": "晓丫头⁵²⁸⁸🍀（十九娃）"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7376646338617805605?x-expires=1772816400&x-signature=aEl5f7fVgyJkOl%2BRujI%2FMNStM3s%3D&from=2622231899",
+        "id": "7614092360976567081",
+        "link": "snssdk1128://live?room_id=7614092360976567081",
+        "title": "晓丫头⁵²⁸⁸正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 61970
+      }
+    },
+    {
+      "author_info": {
+        "name": "笑笑妈有氧运动健身"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7514237884398537472?x-expires=1772816400&x-signature=sQQz%2BBkURLdOlQ3MTXKJ2ygiZWQ%3D&from=2622231899",
+        "id": "7614094633001372435",
+        "link": "snssdk1128://live?room_id=7614094633001372435",
+        "title": "体重管理年，瘦肚子瘦全身，简单易学！挑战一天瘦一斤！！#体重管理"
+      },
+      "statistic_info": {
+        "hot_value": 61570
+      }
+    },
+    {
+      "author_info": {
+        "name": "云岚小院官方号"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7018505490523441951?x-expires=1772816400&x-signature=VeVbXBzkpeu%2FaP7c%2Fg4oo93QNnI%3D&from=2622231899",
+        "id": "7614086247190907699",
+        "link": "snssdk1128://live?room_id=7614086247190907699",
+        "title": "故事男人（郭争光…正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 61030
+      }
+    },
+    {
+      "author_info": {
+        "name": "龙浩天男团 鲸·渝101（备用号）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7559846040816388915?x-expires=1772816400&x-signature=3QHxDsQFDKF9CPD%2FmjyXx%2FA%2F2Eo%3D&from=2622231899",
+        "id": "7614097281557990184",
+        "link": "snssdk1128://live?room_id=7614097281557990184",
+        "title": "我旁边是谁在跳舞？？？"
+      },
+      "statistic_info": {
+        "hot_value": 57351
+      }
+    },
+    {
+      "author_info": {
+        "name": "大丫"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7309048894862936844?x-expires=1772816400&x-signature=rqe3vjNuZr2ag2WQeMQQBYMRa40%3D&from=2622231899",
+        "id": "7614090957738642195",
+        "link": "snssdk1128://live?room_id=7614090957738642195",
+        "title": "这首歌里面有你的故事吗......."
+      },
+      "statistic_info": {
+        "hot_value": 52338
+      }
+    },
+    {
+      "author_info": {
+        "name": "歌手赵鑫"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7541103542803827510?x-expires=1772816400&x-signature=OOAmu%2F74w2FP8p6ddG1CdzEFGzk%3D&from=2622231899",
+        "id": "7614080271151041314",
+        "link": "snssdk1128://live?room_id=7614080271151041314",
+        "title": "欢迎来到赵鑫直播间"
+      },
+      "statistic_info": {
+        "hot_value": 51490
+      }
+    },
+    {
+      "author_info": {
+        "name": "超幸运的小瑶"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813_f86b5884930e47dda7a7a12f7c01aecd?x-expires=1772816400&x-signature=ivnWPzEyTGM0caFX0TbIZLErqFM%3D&from=2622231899",
+        "id": "7614049288697039650",
+        "link": "snssdk1128://live?room_id=7614049288697039650",
+        "title": "超幸运的小瑶正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 50774
+      }
+    },
+    {
+      "author_info": {
+        "name": "文德"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7512397405074557730?x-expires=1772816400&x-signature=H%2BV13AfnoXFEdoPA9AKl7%2BeDN%2Bc%3D&from=2622231899",
+        "id": "7614088006609406720",
+        "link": "snssdk1128://live?room_id=7614088006609406720",
+        "title": "说出你的故事"
+      },
+      "statistic_info": {
+        "hot_value": 49788
+      }
+    },
+    {
+      "author_info": {
+        "name": "王浩宇Whys"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7559832147071241012?x-expires=1772816400&x-signature=b05WobOm9vWcuw6TDli54MJIXdY%3D&from=2622231899",
+        "id": "7614090560407833350",
+        "link": "snssdk1128://live?room_id=7614090560407833350",
+        "title": "串子赏金赛第二季正式开赛！直播间内福袋不停！"
+      },
+      "statistic_info": {
+        "hot_value": 48252
+      }
+    },
+    {
+      "author_info": {
+        "name": "李二胖🔥大双二双"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_3e79c0e12b247749030a72955d48808e?x-expires=1772816400&x-signature=T3j0JVmIemlKl5eh68QQogdHabw%3D&from=2622231899",
+        "id": "7614080337139862307",
+        "link": "snssdk1128://live?room_id=7614080337139862307",
+        "title": "进来吧。都进来。。。"
+      },
+      "statistic_info": {
+        "hot_value": 47501
+      }
+    },
+    {
+      "author_info": {
+        "name": "比亚迪ChaCheBYD"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7433625322794568457?x-expires=1772816400&x-signature=1MWKgtUyMTiFl67d0ab%2FHMR1UJM%3D&from=2622231899",
+        "id": "7614088351234280202",
+        "link": "snssdk1128://live?room_id=7614088351234280202",
+        "title": "比亚迪叉车苏北销售中心正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 47354
+      }
+    },
+    {
+      "author_info": {
+        "name": "龙三（团队招人）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7084202123214621481?x-expires=1772816400&x-signature=OfbnAouu69yOSRs7K5Hl0ZtxWqE%3D&from=2622231899",
+        "id": "7614095870534961939",
+        "link": "snssdk1128://live?room_id=7614095870534961939",
+        "title": "暴笑如雷"
+      },
+      "statistic_info": {
+        "hot_value": 47295
+      }
+    },
+    {
+      "author_info": {
+        "name": "Dou✨"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7399288012112169737?x-expires=1772816400&x-signature=xq2zixdlTAF7BLlxlI9NCd4faZ4%3D&from=2622231899",
+        "id": "7614070586427345691",
+        "link": "snssdk1128://live?room_id=7614070586427345691",
+        "title": "37岁颜值天花板"
+      },
+      "statistic_info": {
+        "hot_value": 47292
+      }
+    },
+    {
+      "author_info": {
+        "name": "陈冠宇ᴴ¹³¹👑"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7520925217309575963?x-expires=1772816400&x-signature=57dV%2B9OkrOeMbO%2FRwXvDmrwLvOs%3D&from=2622231899",
+        "id": "7614097255422806794",
+        "link": "snssdk1128://live?room_id=7614097255422806794",
+        "title": "臀围66！！！"
+      },
+      "statistic_info": {
+        "hot_value": 46065
+      }
+    },
+    {
+      "author_info": {
+        "name": "崔古拉斯"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7546569249003883273?x-expires=1772816400&x-signature=khlGckk3efzKfZrRF%2BAXRupQhg4%3D&from=2622231899",
+        "id": "7614066533832100617",
+        "link": "snssdk1128://live?room_id=7614066533832100617",
+        "title": "八佰擂台赏金联赛第二轮！"
+      },
+      "statistic_info": {
+        "hot_value": 44421
+      }
+    },
+    {
+      "author_info": {
+        "name": "皖芯🔥⁸²³【户外才艺】"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7342022761436629811?x-expires=1772816400&x-signature=FGkzal8vWnNMtJMMJa4QuReHymQ%3D&from=2622231899",
+        "id": "7614083296095718184",
+        "link": "snssdk1128://live?room_id=7614083296095718184",
+        "title": "皖芯🔥823【户外才艺】（收徒）正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 44417
+      }
+    },
+    {
+      "author_info": {
+        "name": "虍牙-黑龙江省歌舞剧院"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7336481575095388969?x-expires=1772816400&x-signature=8wDuWMJEo1k%2FjeWkXCYONS8JjXg%3D&from=2622231899",
+        "id": "7614080168319109938",
+        "link": "snssdk1128://live?room_id=7614080168319109938",
+        "title": "草原歌、民歌、红歌、军歌欢迎来听歌！"
+      },
+      "statistic_info": {
+        "hot_value": 44121
+      }
+    },
+    {
+      "author_info": {
+        "name": "帕尼尼没有格🍕"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7544658459736722219?x-expires=1772816400&x-signature=fIX%2FAhM%2B5noSYRx3yHIhkrVynag%3D&from=2622231899",
+        "id": "7614094165424540431",
+        "link": "snssdk1128://live?room_id=7614094165424540431",
+        "title": "新春快乐！"
+      },
+      "statistic_info": {
+        "hot_value": 44073
+      }
+    },
+    {
+      "author_info": {
+        "name": "公孙雨露户外"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7556178403565767424?x-expires=1772816400&x-signature=3c8BCYIiC5OzrktTjF2ksbgS%2FxQ%3D&from=2622231899",
+        "id": "7614096378469321523",
+        "link": "snssdk1128://live?room_id=7614096378469321523",
+        "title": "户外游戏"
+      },
+      "statistic_info": {
+        "hot_value": 43069
+      }
+    },
+    {
+      "author_info": {
+        "name": "乔儿儿儿儿儿🧸 ⁸¹⁶【玩梦幻】"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7597726863500118793?x-expires=1772816400&x-signature=XKP%2F5RY5%2Bq1Np4LbHV1fX4sNJGg%3D&from=2622231899",
+        "id": "7614090341935155995",
+        "link": "snssdk1128://live?room_id=7614090341935155995",
+        "title": "梦幻满月啦❤"
+      },
+      "statistic_info": {
+        "hot_value": 40908
+      }
+    },
+    {
+      "author_info": {
+        "name": "妙莲"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c001_o4oWBxS6IAOUCHQAE2AYDAAnA9FnaCfc9geDpE?x-expires=1772816400&x-signature=RwU%2BRepemz7lKNLtBKg7tuMdM1o%3D&from=2622231899",
+        "id": "7614097014573271835",
+        "link": "snssdk1128://live?room_id=7614097014573271835",
+        "title": "妙莲正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 40269
+      }
+    },
+    {
+      "author_info": {
+        "name": "山里红18:10"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c000-ce_oQneEtFYACn2QttdEADAIJH99spwgCAAAYExfW?x-expires=1772816400&x-signature=GucyPt3NQSqt5ci5WXRq2zENVXw%3D&from=2622231899",
+        "id": "7614081710392675135",
+        "link": "snssdk1128://live?room_id=7614081710392675135",
+        "title": "山里红正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 39450
+      }
+    },
+    {
+      "author_info": {
+        "name": "詹佳晓"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7574740030730078982?x-expires=1772816400&x-signature=kY1kB%2Fur%2FPM0tDSZZhCCsV45EFE%3D&from=2622231899",
+        "id": "7614088056068377378",
+        "link": "snssdk1128://live?room_id=7614088056068377378",
+        "title": "一江春水一江月，一人一琴一座桥！"
+      },
+      "statistic_info": {
+        "hot_value": 39361
+      }
+    },
+    {
+      "author_info": {
+        "name": "王小宁🎤（每晚18.30分直播）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7510168033363413800?x-expires=1772816400&x-signature=1oBpbs%2F%2BSP7%2Fme3fqt9E%2Bzdqw6Y%3D&from=2622231899",
+        "id": "7614088236297767723",
+        "link": "snssdk1128://live?room_id=7614088236297767723",
+        "title": "海澜飞马户外直播"
+      },
+      "statistic_info": {
+        "hot_value": 39022
+      }
+    },
+    {
+      "author_info": {
+        "name": "动漫男主阿饼（不是刘昊然）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7486331329576553268?x-expires=1772816400&x-signature=Fovl5XCQHXVpVjsj%2BBx2Zx%2FxcVQ%3D&from=2622231899",
+        "id": "7614090681673435939",
+        "link": "snssdk1128://live?room_id=7614090681673435939",
+        "title": "进来领年套 DNF手游还有救吗？"
+      },
+      "statistic_info": {
+        "hot_value": 38684
+      }
+    },
+    {
+      "author_info": {
+        "name": "悦卿肌语"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7589987325451799323?x-expires=1772816400&x-signature=JV9byBGUQZUv%2BJA4J3aI87ovBr4%3D&from=2622231899",
+        "id": "7614095548533984026",
+        "link": "snssdk1128://live?room_id=7614095548533984026",
+        "title": "你好 欢迎光临悦卿肌语•̀ᴥ•"
+      },
+      "statistic_info": {
+        "hot_value": 37185
+      }
+    },
+    {
+      "author_info": {
+        "name": "花傲天"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7366594343278431013?x-expires=1772816400&x-signature=%2BJ8e0LU7%2Ff9b0pGF4OF3WtuDPPw%3D&from=2622231899",
+        "id": "7614071130449922850",
+        "link": "snssdk1128://live?room_id=7614071130449922850",
+        "title": "跳伞训练一小时"
+      },
+      "statistic_info": {
+        "hot_value": 36943
+      }
+    },
+    {
+      "author_info": {
+        "name": "海来富（砥砺前行）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/douyin-user-image-file_12c0fdb73963dd47864eaca9bfc81348?x-expires=1772816400&x-signature=T1TmiT7dIcvjocbMZMK6uUNm%2Fmw%3D&from=2622231899",
+        "id": "7614095762015767342",
+        "link": "snssdk1128://live?room_id=7614095762015767342",
+        "title": "兴化海来富大舞台"
+      },
+      "statistic_info": {
+        "hot_value": 36239
+      }
+    },
+    {
+      "author_info": {
+        "name": "小u哈 ²º⁶⁷💪奋斗版"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7555918249494416171?x-expires=1772816400&x-signature=bn1aj%2BQXfnlBC0wWxZB96BaSSOY%3D&from=2622231899",
+        "id": "7614095771272629046",
+        "link": "snssdk1128://live?room_id=7614095771272629046",
+        "title": "哈哈"
+      },
+      "statistic_info": {
+        "hot_value": 36233
+      }
+    },
+    {
+      "author_info": {
+        "name": "高宇航『九方骏』"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7489255934829611810?x-expires=1772816400&x-signature=q1So9%2B3lytmSAnRZroIwJpQ%2BITM%3D&from=2622231899",
+        "id": "7614090029832358671",
+        "link": "snssdk1128://live?room_id=7614090029832358671",
+        "title": "和平精英边打边解说"
+      },
+      "statistic_info": {
+        "hot_value": 35894
+      }
+    },
+    {
+      "author_info": {
+        "name": "兔兔1V4"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7493357276821130022?x-expires=1772816400&x-signature=E5vgcSGDRFXrvvkYu52kAmsh6PE%3D&from=2622231899",
+        "id": "7614081544335985454",
+        "link": "snssdk1128://live?room_id=7614081544335985454",
+        "title": "logo号单四/山东第一女狙神/场均30杀/丝路敦煌最强打法/钢枪御姐"
+      },
+      "statistic_info": {
+        "hot_value": 35736
+      }
+    },
+    {
+      "author_info": {
+        "name": "苗苗🪽"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_720c9dfd3bf648828951878cbc0212e9?x-expires=1772816400&x-signature=Ngp2mqVgyXLl2E3nZGa1ewd10QQ%3D&from=2622231899",
+        "id": "7614096998983420681",
+        "link": "snssdk1128://live?room_id=7614096998983420681",
+        "title": "中国舞苗苗正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 34978
+      }
+    },
+    {
+      "author_info": {
+        "name": "箩老丝³¹⁵🦋（幼年版）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7602582502876433204?x-expires=1772816400&x-signature=FB0Obq0SL1EsDLfidIos%2BGKv1yI%3D&from=2622231899",
+        "id": "7614093169222863650",
+        "link": "snssdk1128://live?room_id=7614093169222863650",
+        "title": "40级以上进来打杂"
+      },
+      "statistic_info": {
+        "hot_value": 34731
+      }
+    },
+    {
+      "author_info": {
+        "name": "勇哥爱唱歌🎤"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813_oUAnPlZBizInZ7A7AACAWFgE6OcvC6iwgIIO3?x-expires=1772816400&x-signature=36OJDdONGLkCYPgVsntPTzIHgSk%3D&from=2622231899",
+        "id": "7614079571616336667",
+        "link": "snssdk1128://live?room_id=7614079571616336667",
+        "title": "终于等到你啦！！！"
+      },
+      "statistic_info": {
+        "hot_value": 34346
+      }
+    },
+    {
+      "author_info": {
+        "name": "小谭首播（晚18:50）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813_7f1839a701f54db6a8df8959149b0b01?x-expires=1772816400&x-signature=zsByhpiy30RMDE1w3LauuC3PKwA%3D&from=2622231899",
+        "id": "7614093040587787034",
+        "link": "snssdk1128://live?room_id=7614093040587787034",
+        "title": "娱乐主播无任何不良引导性"
+      },
+      "statistic_info": {
+        "hot_value": 34109
+      }
+    },
+    {
+      "author_info": {
+        "name": "唐沐妍🎙️（云南小丽君）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7609651524037790479?x-expires=1772816400&x-signature=PoHnCPNpIUzzomahTiOR9WG5Rlc%3D&from=2622231899",
+        "id": "7614095750355536690",
+        "link": "snssdk1128://live?room_id=7614095750355536690",
+        "title": "让我进到你心里吧~~~"
+      },
+      "statistic_info": {
+        "hot_value": 33695
+      }
+    },
+    {
+      "author_info": {
+        "name": "玉乾笛箫"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7447447678864214795?x-expires=1772816400&x-signature=BOlBH2VVzjC3dP75fOTTLsKCsr8%3D&from=2622231899",
+        "id": "7614081818363317043",
+        "link": "snssdk1128://live?room_id=7614081818363317043",
+        "title": "玉乾笛箫"
+      },
+      "statistic_info": {
+        "hot_value": 33091
+      }
+    },
+    {
+      "author_info": {
+        "name": "吴名八段锦"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7575110040911465252?x-expires=1772816400&x-signature=pn67tx2UNxXabQB6NdjXQ4Vh7AI%3D&from=2622231899",
+        "id": "7614080313685494534",
+        "link": "snssdk1128://live?room_id=7614080313685494534",
+        "title": "每日领练基本功+八段锦，远离亚健康"
+      },
+      "statistic_info": {
+        "hot_value": 33018
+      }
+    },
+    {
+      "author_info": {
+        "name": "张星语🎙️好运连连"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7496483878207638312?x-expires=1772816400&x-signature=m9cnQR%2BWtp0HgR54cOUv%2FDZYmSk%3D&from=2622231899",
+        "id": "7614085083883965222",
+        "link": "snssdk1128://live?room_id=7614085083883965222",
+        "title": "上善若水，不争是非"
+      },
+      "statistic_info": {
+        "hot_value": 32982
+      }
+    },
+    {
+      "author_info": {
+        "name": "碧硫河鱼馆🇨🇳"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c001_oQeO2vAyIELc3PAA0mnA2DxCGQmgNXAfgAHFA9?x-expires=1772816400&x-signature=d5q97ae8Zu2zy5vk0nC%2BXEKZAYI%3D&from=2622231899",
+        "id": "7614090573984631604",
+        "link": "snssdk1128://live?room_id=7614090573984631604",
+        "title": "碧硫河鱼馆🇨🇳正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 32468
+      }
+    },
+    {
+      "author_info": {
+        "name": "婷宝²¹⁸ 🎙️打榜（等待光）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7405099213912247091?x-expires=1772816400&x-signature=%2Fx7Dh%2B7WgwEY1IqMrnzWOan8nIE%3D&from=2622231899",
+        "id": "7614095509048855302",
+        "link": "snssdk1128://live?room_id=7614095509048855302",
+        "title": "很高兴认识你"
+      },
+      "statistic_info": {
+        "hot_value": 32215
+      }
+    },
+    {
+      "author_info": {
+        "name": "林沙沙"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7552487327558519594?x-expires=1772816400&x-signature=Oqksqr%2BjRex%2BWJxCvpl8fVgVy%2B4%3D&from=2622231899",
+        "id": "7614095484092828457",
+        "link": "snssdk1128://live?room_id=7614095484092828457",
+        "title": "马年行大运马年发财"
+      },
+      "statistic_info": {
+        "hot_value": 32188
+      }
+    },
+    {
+      "author_info": {
+        "name": "灰狐网络科技"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7358854224198863679?x-expires=1772816400&x-signature=odgIu3GKEFTauzWhk85e6k6MkyQ%3D&from=2622231899",
+        "id": "7614096463002078006",
+        "link": "snssdk1128://live?room_id=7614096463002078006",
+        "title": "大型户外十万➕"
+      },
+      "statistic_info": {
+        "hot_value": 31881
+      }
+    },
+    {
+      "author_info": {
+        "name": "童老六（397）"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813_68f5d9d8769f4da2831404026c854a0e?x-expires=1772816400&x-signature=YOPTT25n3IYezhuRvdmMNeC9Inw%3D&from=2622231899",
+        "id": "7614096005155310336",
+        "link": "snssdk1128://live?room_id=7614096005155310336",
+        "title": "恐龙岛实时直播，难度提升中！"
+      },
+      "statistic_info": {
+        "hot_value": 30910
+      }
+    },
+    {
+      "author_info": {
+        "name": "亮一嗓·郝晓亮"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7589231496252738342?x-expires=1772816400&x-signature=sPwbJWxVm8tfQsNibK3ZSdOJGvY%3D&from=2622231899",
+        "id": "7614095740914141990",
+        "link": "snssdk1128://live?room_id=7614095740914141990",
+        "title": "亮一嗓大舞台，想唱你就来"
+      },
+      "statistic_info": {
+        "hot_value": 30602
+      }
+    },
+    {
+      "author_info": {
+        "name": "王者荣耀家驹（世一禹）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c000-ce_oIxLyMlgalPYL6ntAA0AhCX7P2tGiPAEBA7iI?x-expires=1772816400&x-signature=xUS71EkS6zag917UJz8gWFuykTA%3D&from=2622231899",
+        "id": "7614095460462021395",
+        "link": "snssdk1128://live?room_id=7614095460462021395",
+        "title": "啊？这个人他竟然用大禹打上了巅峰第一！"
+      },
+      "statistic_info": {
+        "hot_value": 30520
+      }
+    },
+    {
+      "author_info": {
+        "name": "王者荣耀-南枝（嘴不碎）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7548768502903409446?x-expires=1772816400&x-signature=mNIlAd%2FfW35En4yfNAZDUBDXJm8%3D&from=2622231899",
+        "id": "7614095073705315081",
+        "link": "snssdk1128://live?room_id=7614095073705315081",
+        "title": "用小乔把把MVP的男人，愿我能带给你们欢笑"
+      },
+      "statistic_info": {
+        "hot_value": 30151
+      }
+    },
+    {
+      "author_info": {
+        "name": "梁一晨🎹"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7577320028981201699?x-expires=1772816400&x-signature=Z6ZaBiAdy0HMbnPbXGJSTKD%2FCX4%3D&from=2622231899",
+        "id": "7614074253247269666",
+        "link": "snssdk1128://live?room_id=7614074253247269666",
+        "title": "哇好美这是哪里"
+      },
+      "statistic_info": {
+        "hot_value": 29750
+      }
+    },
+    {
+      "author_info": {
+        "name": "易火火"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7600361451466820362?x-expires=1772816400&x-signature=6D5j9f01Ndwi8ht7cG8iULMPMb8%3D&from=2622231899",
+        "id": "7614093201982049075",
+        "link": "snssdk1128://live?room_id=7614093201982049075",
+        "title": "演员…"
+      },
+      "statistic_info": {
+        "hot_value": 29224
+      }
+    },
+    {
+      "author_info": {
+        "name": "三毛学唱歌晚上7:00开播"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7564737604535061286?x-expires=1772816400&x-signature=ww7UDCM1fpUL2hmsF6b2hbyEmng%3D&from=2622231899",
+        "id": "7614092834987182854",
+        "link": "snssdk1128://live?room_id=7614092834987182854",
+        "title": "三毛今天唱歌聊天"
+      },
+      "statistic_info": {
+        "hot_value": 28655
+      }
+    },
+    {
+      "author_info": {
+        "name": "北香阁饭店(五爷庙店)官方号"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7226899333306911528?x-expires=1772816400&x-signature=5bj14t8TaPFyBQ2sttSFg8K1byo%3D&from=2622231899",
+        "id": "7614091882594978569",
+        "link": "snssdk1128://live?room_id=7614091882594978569",
+        "title": "来五台山得吃什么"
+      },
+      "statistic_info": {
+        "hot_value": 28470
+      }
+    },
+    {
+      "author_info": {
+        "name": "丽如"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/aweme-avatar/mosaic-legacy_285b20005a011906f1b73?x-expires=1772816400&x-signature=wCXqd8xKuLSsJ%2ByodyzuMQYrBvE%3D&from=2622231899",
+        "id": "7614081882465569571",
+        "link": "snssdk1128://live?room_id=7614081882465569571",
+        "title": "丽如今天18点10分直播正在直"
+      },
+      "statistic_info": {
+        "hot_value": 27837
+      }
+    },
+    {
+      "author_info": {
+        "name": "爱琴二胡（王天爱）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7525766749208464137?x-expires=1772816400&x-signature=xlUDzsu4ooE5rKrm3J2tfyj7kwM%3D&from=2622231899",
+        "id": "7614092503569992463",
+        "link": "snssdk1128://live?room_id=7614092503569992463",
+        "title": "大锤80，小锤40"
+      },
+      "statistic_info": {
+        "hot_value": 27714
+      }
+    },
+    {
+      "author_info": {
+        "name": "月亮mm"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7464605493479328527?x-expires=1772816400&x-signature=LH1jnW0W992iKLJqkInu3RAUdMM%3D&from=2622231899",
+        "id": "7614094763096148787",
+        "link": "snssdk1128://live?room_id=7614094763096148787",
+        "title": "为了直播把婚都离了"
+      },
+      "statistic_info": {
+        "hot_value": 27670
+      }
+    },
+    {
+      "author_info": {
+        "name": "中国舞逗逗."
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7553234851692940051?x-expires=1772816400&x-signature=%2FsQ8tn23L3mzT6M1hdTxmcNrYPw%3D&from=2622231899",
+        "id": "7614096559189379855",
+        "link": "snssdk1128://live?room_id=7614096559189379855",
+        "title": "听说门口也能点赞了"
+      },
+      "statistic_info": {
+        "hot_value": 27371
+      }
+    },
+    {
+      "author_info": {
+        "name": "睿捷传媒红运"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_6ea336bfa53643471cc7e3455c4fcf89?x-expires=1772816400&x-signature=zT2%2FitbkRGMCl54nNLCG8ugKzRE%3D&from=2622231899",
+        "id": "7614065011010751247",
+        "link": "snssdk1128://live?room_id=7614065011010751247",
+        "title": "听种果园的故事"
+      },
+      "statistic_info": {
+        "hot_value": 27025
+      }
+    },
+    {
+      "author_info": {
+        "name": "韩伊涵❗️"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7278656034510490408?x-expires=1772816400&x-signature=JQTpNtI7MTSGbBZrwm%2B7oMiyaK4%3D&from=2622231899",
+        "id": "7614093075283282698",
+        "link": "snssdk1128://live?room_id=7614093075283282698",
+        "title": "您正在观看的这位主播是喊麦界的颜值天花板！"
+      },
+      "statistic_info": {
+        "hot_value": 27009
+      }
+    },
+    {
+      "author_info": {
+        "name": "小强努力自强3-6周年庆"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7407446111205526298?x-expires=1772816400&x-signature=OH8yDSRD2YYazHmmcvt%2BGoQp8DA%3D&from=2622231899",
+        "id": "7614095552292195123",
+        "link": "snssdk1128://live?room_id=7614095552292195123",
+        "title": "努力一点，幸运一点，致敬生活"
+      },
+      "statistic_info": {
+        "hot_value": 26479
+      }
+    },
+    {
+      "author_info": {
+        "name": "王青阳"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7598732385647070002?x-expires=1772816400&x-signature=PQ%2FNRVUrGmTSv7nMQwJ9WHUFE7Y%3D&from=2622231899",
+        "id": "7614082577930111753",
+        "link": "snssdk1128://live?room_id=7614082577930111753",
+        "title": "乐器小达人"
+      },
+      "statistic_info": {
+        "hot_value": 26297
+      }
+    },
+    {
+      "author_info": {
+        "name": "财财"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813_o8DAIIOGqij6WAPgs9ZgP4DYAwPAAinEcNgBA?x-expires=1772816400&x-signature=FtPrHfX7dR8%2FlGura6x7CBEl%2BmY%3D&from=2622231899",
+        "id": "7614080247020915491",
+        "link": "snssdk1128://live?room_id=7614080247020915491",
+        "title": "财财正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 26256
+      }
+    },
+    {
+      "author_info": {
+        "name": "宋忠平"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7536152888884595475?x-expires=1772816400&x-signature=tnxJyU3%2Be%2FPUAatdb9C2T3a%2BuU4%3D&from=2622231899",
+        "id": "7614092996773956352",
+        "link": "snssdk1128://live?room_id=7614092996773956352",
+        "title": "宋忠平正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 25980
+      }
+    },
+    {
+      "author_info": {
+        "name": "🍃诗琪_古筝🍃"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7510159453162097434?x-expires=1772816400&x-signature=C2HchOF%2FH71PM7qCM7Mz%2B%2FEWtaE%3D&from=2622231899",
+        "id": "7614097854889610038",
+        "link": "snssdk1128://live?room_id=7614097854889610038",
+        "title": "新年好吖～"
+      },
+      "statistic_info": {
+        "hot_value": 25301
+      }
+    },
+    {
+      "author_info": {
+        "name": "猫猫猫猫猫"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/tos-cn-i-0813_ee526d5d50f94f0281613b05ad4c3230?x-expires=1772816400&x-signature=wl6vgU%2FpJvzMrk19ul1hfDJVzTE%3D&from=2622231899",
+        "id": "7614095643539245858",
+        "link": "snssdk1128://live?room_id=7614095643539245858",
+        "title": "惊魂夜包不叫的"
+      },
+      "statistic_info": {
+        "hot_value": 25207
+      }
+    },
+    {
+      "author_info": {
+        "name": "名扬SH"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7601949469751577371?x-expires=1772816400&x-signature=bi4jY7jdCCC5s4aqX5FZRCjLDlU%3D&from=2622231899",
+        "id": "7614087967576984356",
+        "link": "snssdk1128://live?room_id=7614087967576984356",
+        "title": "陕北窑洞洞"
+      },
+      "statistic_info": {
+        "hot_value": 25112
+      }
+    },
+    {
+      "author_info": {
+        "name": "球儿🎈"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7542255156688063274?x-expires=1772816400&x-signature=70pmZSmgia9fldCZyZNWw7W0wJ4%3D&from=2622231899",
+        "id": "7614091201045662490",
+        "link": "snssdk1128://live?room_id=7614091201045662490",
+        "title": "性价比直播间…"
+      },
+      "statistic_info": {
+        "hot_value": 25101
+      }
+    },
+    {
+      "author_info": {
+        "name": "常州娜娜🎤⁹⁸⁷²早上7点开播"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7250780216585407290?x-expires=1772816400&x-signature=qTydZIuWNRAPnMsbUoPUmIoRukI%3D&from=2622231899",
+        "id": "7614093195843996425",
+        "link": "snssdk1128://live?room_id=7614093195843996425",
+        "title": "吃素为全天下父母祈祷身体健康"
+      },
+      "statistic_info": {
+        "hot_value": 24575
+      }
+    },
+    {
+      "author_info": {
+        "name": "🐰安六炫🎧"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7491158622806919972?x-expires=1772816400&x-signature=IdzH3JnjNL3jOTKkCGO2vFfiu14%3D&from=2622231899",
+        "id": "7614093728721947435",
+        "link": "snssdk1128://live?room_id=7614093728721947435",
+        "title": "肖战学弟，爱肖战2026马上有钱"
+      },
+      "statistic_info": {
+        "hot_value": 24389
+      }
+    },
+    {
+      "author_info": {
+        "name": "潮爸小龙哥"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7588852423272467234?x-expires=1772816400&x-signature=Lu7KW5EHmX3daQ6fVujmp4xG5mM%3D&from=2622231899",
+        "id": "7614093205067287331",
+        "link": "snssdk1128://live?room_id=7614093205067287331",
+        "title": "开年第一场！喝茶喽！"
+      },
+      "statistic_info": {
+        "hot_value": 24351
+      }
+    },
+    {
+      "author_info": {
+        "name": "王美丽¹⁰²⁷"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7399140824623483689?x-expires=1772816400&x-signature=7q%2Fg%2BbdyCFxgMw7MHFkkB165QFI%3D&from=2622231899",
+        "id": "7614093092710533951",
+        "link": "snssdk1128://live?room_id=7614093092710533951",
+        "title": "王美丽正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 24247
+      }
+    },
+    {
+      "author_info": {
+        "name": "Baby Face-M"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7562514320585083702?x-expires=1772816400&x-signature=53A78VSiAVhd690%2BQZ4v1zVPNVA%3D&from=2622231899",
+        "id": "7614095680096766763",
+        "link": "snssdk1128://live?room_id=7614095680096766763",
+        "title": "潮模是什么？"
+      },
+      "statistic_info": {
+        "hot_value": 24120
+      }
+    },
+    {
+      "author_info": {
+        "name": "舒嬷嬷MOMO"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7082702339018279680?x-expires=1772816400&x-signature=x%2FsILsdCaWnJq5ygVdg1dzK6lR0%3D&from=2622231899",
+        "id": "7614094883628534570",
+        "link": "snssdk1128://live?room_id=7614094883628534570",
+        "title": "噜啦啦~（"
+      },
+      "statistic_info": {
+        "hot_value": 24084
+      }
+    },
+    {
+      "author_info": {
+        "name": "小阿彬🌾军歌嘹亮"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7499300512534285107?x-expires=1772816400&x-signature=jNTPPQXFUaQpO8yFqhCMHPVx7OU%3D&from=2622231899",
+        "id": "7614088766055140102",
+        "link": "snssdk1128://live?room_id=7614088766055140102",
+        "title": "90后退yi彬哥唱歌"
+      },
+      "statistic_info": {
+        "hot_value": 24081
+      }
+    },
+    {
+      "author_info": {
+        "name": "八戒永飞"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7592184804311616294?x-expires=1772816400&x-signature=WW58sbX8pRr2dBO88IdsJPO2%2Bm8%3D&from=2622231899",
+        "id": "7614080341229259570",
+        "link": "snssdk1128://live?room_id=7614080341229259570",
+        "title": "新年新气象开播大吉"
+      },
+      "statistic_info": {
+        "hot_value": 23927
+      }
+    },
+    {
+      "author_info": {
+        "name": "雲公主👑"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7367167922344741644?x-expires=1772816400&x-signature=Fr3mS4PWQ4%2FZyBb5TuYSptyVkBs%3D&from=2622231899",
+        "id": "7614095567702035243",
+        "link": "snssdk1128://live?room_id=7614095567702035243",
+        "title": "开播啦"
+      },
+      "statistic_info": {
+        "hot_value": 23904
+      }
+    },
+    {
+      "author_info": {
+        "name": "舟山李姐《18.18分》"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/aweme-avatar/douyin-user-file_f9d559c70a1e604d5bbdb8643c161c18?x-expires=1772816400&x-signature=kUQyT1eVmqoGlf3X3nzbtj6%2FGks%3D&from=2622231899",
+        "id": "7614084800223169286",
+        "link": "snssdk1128://live?room_id=7614084800223169286",
+        "title": "代红正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 23901
+      }
+    },
+    {
+      "author_info": {
+        "name": "洋亿 18:10开"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7290954943351851837?x-expires=1772816400&x-signature=0O%2BbTR3l2L83CH2Tcsm7G7Z05Pw%3D&from=2622231899",
+        "id": "7614083503419935539",
+        "link": "snssdk1128://live?room_id=7614083503419935539",
+        "title": "每天分享从零到百的细节开窍点"
+      },
+      "statistic_info": {
+        "hot_value": 23882
+      }
+    },
+    {
+      "author_info": {
+        "name": "致青春"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7569933936558689043?x-expires=1772816400&x-signature=pM69KZMOz0qTwYFlLidm8qXJOtw%3D&from=2622231899",
+        "id": "7614095774909106978",
+        "link": "snssdk1128://live?room_id=7614095774909106978",
+        "title": "欢迎来到80，90年代......."
+      },
+      "statistic_info": {
+        "hot_value": 23565
+      }
+    },
+    {
+      "author_info": {
+        "name": "小燕子格格"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7515812623359871744?x-expires=1772816400&x-signature=gPXvGGbcX5gGvVOWd2W1xlsuVMg%3D&from=2622231899",
+        "id": "7614082792499661611",
+        "link": "snssdk1128://live?room_id=7614082792499661611",
+        "title": "小燕子格格正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 23317
+      }
+    },
+    {
+      "author_info": {
+        "name": "情歌王子🎤18.38直播大号🚀"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7524648902260329266?x-expires=1772816400&x-signature=V1yV%2F5iceesZcRaeFpvEqBy6KJM%3D&from=2622231899",
+        "id": "7614088030644210468",
+        "link": "snssdk1128://live?room_id=7614088030644210468",
+        "title": "情歌王子晚7.10直播正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 23049
+      }
+    },
+    {
+      "author_info": {
+        "name": "秋秋🎤⁴º⁸"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/mosaic-legacy_3795_3047680722?x-expires=1772816400&x-signature=780zZ75VLe8H2XqBtf9STS91oEs%3D&from=2622231899",
+        "id": "7614087953979476755",
+        "link": "snssdk1128://live?room_id=7614087953979476755",
+        "title": "以歌会友"
+      },
+      "statistic_info": {
+        "hot_value": 22892
+      }
+    },
+    {
+      "author_info": {
+        "name": "福猪猪"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7480870479432043299?x-expires=1772816400&x-signature=k7cPi2ino%2FMU8IEe6ejrE9VdKjw%3D&from=2622231899",
+        "id": "7614097415565495059",
+        "link": "snssdk1128://live?room_id=7614097415565495059",
+        "title": "风里雨里福猪猪直播间等你"
+      },
+      "statistic_info": {
+        "hot_value": 22722
+      }
+    },
+    {
+      "author_info": {
+        "name": "修车 小杨"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7415221602025098021?x-expires=1772816400&x-signature=7x2UdHk5JqP5%2F%2FJzZjXg14nxBJE%3D&from=2622231899",
+        "id": "7614095058132208438",
+        "link": "snssdk1128://live?room_id=7614095058132208438",
+        "title": "快进来~嗨起来了"
+      },
+      "statistic_info": {
+        "hot_value": 22460
+      }
+    },
+    {
+      "author_info": {
+        "name": "吴鸽🎤 ⁵²⁵⁹【水天一色】新歌"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7558069128230325028?x-expires=1772816400&x-signature=Mi%2FZeNy%2Fa6Eju3vlzfeLrSOnRTU%3D&from=2622231899",
+        "id": "7614080850363714346",
+        "link": "snssdk1128://live?room_id=7614080850363714346",
+        "title": "民歌流行戏腔艾米尔歌曲"
+      },
+      "statistic_info": {
+        "hot_value": 22346
+      }
+    },
+    {
+      "author_info": {
+        "name": "China 🇨🇳王先森🇨🇳"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7611127589968759578?x-expires=1772816400&x-signature=QfSkbqiOJNOILfpFFP%2FGL%2BroXms%3D&from=2622231899",
+        "id": "7614098117247421190",
+        "link": "snssdk1128://live?room_id=7614098117247421190",
+        "title": "云喝茶直播间，交天下朋友。"
+      },
+      "statistic_info": {
+        "hot_value": 22280
+      }
+    },
+    {
+      "author_info": {
+        "name": "艳子姐下午5.50直播文化工作室"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7609622826177448730?x-expires=1772816400&x-signature=9UoFV07YxKG0qorTJDvryuAmUtE%3D&from=2622231899",
+        "id": "7614077549139774246",
+        "link": "snssdk1128://live?room_id=7614077549139774246",
+        "title": "正能量"
+      },
+      "statistic_info": {
+        "hot_value": 22260
+      }
+    },
+    {
+      "author_info": {
+        "name": "雪老板（户外娱乐）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7611866638941997859?x-expires=1772816400&x-signature=kTPtBCcR4fxyzFB8ZMPxSIgek%2FM%3D&from=2622231899",
+        "id": "7614096478906305314",
+        "link": "snssdk1128://live?room_id=7614096478906305314",
+        "title": "快来直播间开心互动啦"
+      },
+      "statistic_info": {
+        "hot_value": 22260
+      }
+    },
+    {
+      "author_info": {
+        "name": "古筝文化分享官大陈"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7578045383197362980?x-expires=1772816400&x-signature=F6GEh9AmNUvq%2F3HIYOz6WcBWuTU%3D&from=2622231899",
+        "id": "7614084863653595919",
+        "link": "snssdk1128://live?room_id=7614084863653595919",
+        "title": "黑化了。"
+      },
+      "statistic_info": {
+        "hot_value": 22046
+      }
+    },
+    {
+      "author_info": {
+        "name": "张洋·（晚6：20）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/tos-cn-i-0813_98c5347315f044a386ccb34246c312be?x-expires=1772816400&x-signature=aXu39RmCzfkZqvzktNzI1E%2BNWaM%3D&from=2622231899",
+        "id": "7614085462247901986",
+        "link": "snssdk1128://live?room_id=7614085462247901986",
+        "title": "70后打工族直播，人这么多"
+      },
+      "statistic_info": {
+        "hot_value": 21451
+      }
+    },
+    {
+      "author_info": {
+        "name": "庄公子"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7441498437096409907?x-expires=1772816400&x-signature=l%2Bg32CnnwazoesiAsPsoJc%2B8Ds8%3D&from=2622231899",
+        "id": "7614078936514857754",
+        "link": "snssdk1128://live?room_id=7614078936514857754",
+        "title": "来奉节站啦~"
+      },
+      "statistic_info": {
+        "hot_value": 21410
+      }
+    },
+    {
+      "author_info": {
+        "name": "梁氏建筑梁工（棒老二音乐烧烤）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7609995093222738714?x-expires=1772816400&x-signature=hyKViicfE%2BIuxFgafEnht4QjVug%3D&from=2622231899",
+        "id": "7614066309323639603",
+        "link": "snssdk1128://live?room_id=7614066309323639603",
+        "title": "棒老二音乐烧烤"
+      },
+      "statistic_info": {
+        "hot_value": 21359
+      }
+    },
+    {
+      "author_info": {
+        "name": "⛵️帆宝儿"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7597627025058270006?x-expires=1772816400&x-signature=dss2yV6JYgJ9MbM4bemCzbnGLZc%3D&from=2622231899",
+        "id": "7614093339360611107",
+        "link": "snssdk1128://live?room_id=7614093339360611107",
+        "title": "巧遇，太有缘分啦！"
+      },
+      "statistic_info": {
+        "hot_value": 21150
+      }
+    },
+    {
+      "author_info": {
+        "name": "祁煜0306生贺企划"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_51b851df94ec8bb53797376d87040b60?x-expires=1772816400&x-signature=QwK%2Fuf0Z8tciV%2FAslhMOOTd%2BKVs%3D&from=2622231899",
+        "id": "7614098203436272424",
+        "link": "snssdk1128://live?room_id=7614098203436272424",
+        "title": "祁煜0306生贺企划正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 21140
+      }
+    },
+    {
+      "author_info": {
+        "name": "林苒☀️ ⁹²⁵⁰"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7403335051280190219?x-expires=1772816400&x-signature=F2aWiLXGqBIjp%2BMCa1aPbodP250%3D&from=2622231899",
+        "id": "7614095726032718644",
+        "link": "snssdk1128://live?room_id=7614095726032718644",
+        "title": "成熟男人应该刷的直播！"
+      },
+      "statistic_info": {
+        "hot_value": 21098
+      }
+    },
+    {
+      "author_info": {
+        "name": "家具老店板娘"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/319d70007a61f9e8f2f49?x-expires=1772816400&x-signature=Kd5jmZT9MGUDUqyG6JmZJoDKehg%3D&from=2622231899",
+        "id": "7614087628199086891",
+        "link": "snssdk1128://live?room_id=7614087628199086891",
+        "title": "家具老店板娘正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 20924
+      }
+    },
+    {
+      "author_info": {
+        "name": "聪（中国舞）"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7513861651335416603?x-expires=1772816400&x-signature=yUdU7WzVHn6uwW2K8P2IRtTk%2BAw%3D&from=2622231899",
+        "id": "7614095784690404137",
+        "link": "snssdk1128://live?room_id=7614095784690404137",
+        "title": "让每个节拍都成为发光的瞬间"
+      },
+      "statistic_info": {
+        "hot_value": 20463
+      }
+    },
+    {
+      "author_info": {
+        "name": "高连辉"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7309790281191263027?x-expires=1772816400&x-signature=16mMWkBuKEUhkzQ%2B%2FPHW9uvIzhs%3D&from=2622231899",
+        "id": "7614097744432646927",
+        "link": "snssdk1128://live?room_id=7614097744432646927",
+        "title": "高连辉大舞台,音你而精彩！"
+      },
+      "statistic_info": {
+        "hot_value": 20457
+      }
+    },
+    {
+      "author_info": {
+        "name": "汤圆呀"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7079607428328983326?x-expires=1772816400&x-signature=rUQpUEKAwu85jMDigqMBqQ4ufjA%3D&from=2622231899",
+        "id": "7614094694611569462",
+        "link": "snssdk1128://live?room_id=7614094694611569462",
+        "title": "重生之年我在抖音打pk"
+      },
+      "statistic_info": {
+        "hot_value": 20445
+      }
+    },
+    {
+      "author_info": {
+        "name": "农村小慧2"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7590685487724530470?x-expires=1772816400&x-signature=pcK1f9%2B9gScwKvZvlkNgUNrngOA%3D&from=2622231899",
+        "id": "7614089115952466726",
+        "link": "snssdk1128://live?room_id=7614089115952466726",
+        "title": "农村小慧2（十天光头大战进行中）正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 20384
+      }
+    },
+    {
+      "author_info": {
+        "name": "小林哥🇨🇳"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7571374187223190335?x-expires=1772816400&x-signature=Gf3aBrozMyJjSUZwB50xoNmLgbU%3D&from=2622231899",
+        "id": "7614095487498570530",
+        "link": "snssdk1128://live?room_id=7614095487498570530",
+        "title": "小林哥🌹正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 20153
+      }
+    },
+    {
+      "author_info": {
+        "name": "见笑师父"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7602557472418810666?x-expires=1772816400&x-signature=AqIFLhcKlxqTbqv2uw3KNjyK07I%3D&from=2622231899",
+        "id": "7614082652064664362",
+        "link": "snssdk1128://live?room_id=7614082652064664362",
+        "title": "先开心，再通筋，最后练习易筋经，越练越年轻！"
+      },
+      "statistic_info": {
+        "hot_value": 20068
+      }
+    },
+    {
+      "author_info": {
+        "name": "泽哥粤语情感"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7519697400940743459?x-expires=1772816400&x-signature=VzXMP2Z2tkyAPJB9skVKmX7UXzo%3D&from=2622231899",
+        "id": "7614096462548323135",
+        "link": "snssdk1128://live?room_id=7614096462548323135",
+        "title": "泽哥粤语情感"
+      },
+      "statistic_info": {
+        "hot_value": 19775
+      }
+    },
+    {
+      "author_info": {
+        "name": "冰冰乐💎 ⁸²⁸（光来）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_77ba2ebb62805206a4a229e5a1a8bb15?x-expires=1772816400&x-signature=fW7eOttBNqiBbOaYvg%2BOPoDVMzY%3D&from=2622231899",
+        "id": "7614096224613927718",
+        "link": "snssdk1128://live?room_id=7614096224613927718",
+        "title": "pk结束还有2分钟"
+      },
+      "statistic_info": {
+        "hot_value": 19772
+      }
+    },
+    {
+      "author_info": {
+        "name": "珍珠🐬 （拉丁舞）"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7563608292924787497?x-expires=1772816400&x-signature=PibAzZkTytSlR%2BOQ1Wx%2FV72booo%3D&from=2622231899",
+        "id": "7614094384514042675",
+        "link": "snssdk1128://live?room_id=7614094384514042675",
+        "title": "快来迎财神！！！"
+      },
+      "statistic_info": {
+        "hot_value": 19755
+      }
+    },
+    {
+      "author_info": {
+        "name": "娜娜520工作室"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_5631313e0e4cde5a3e697ade5eff84ca?x-expires=1772816400&x-signature=qPS3ER6KLs7vFXTnsDxV6lx9WzY%3D&from=2622231899",
+        "id": "7614097094592203562",
+        "link": "snssdk1128://live?room_id=7614097094592203562",
+        "title": "暖家娜娜4正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 19730
+      }
+    },
+    {
+      "author_info": {
+        "name": "小陈的老挝媳妇儿"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7418941242727533312?x-expires=1772816400&x-signature=yGNhT3x%2Fbw%2BYHv1KUMqTXk5HGPE%3D&from=2622231899",
+        "id": "7614093585809410866",
+        "link": "snssdk1128://live?room_id=7614093585809410866",
+        "title": "小陈的老挝媳妇儿"
+      },
+      "statistic_info": {
+        "hot_value": 19722
+      }
+    },
+    {
+      "author_info": {
+        "name": "刘大有｜马年初一19点首播"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7608518009573280521?x-expires=1772816400&x-signature=UYj3fELbaTRB15AOt44nua5agdQ%3D&from=2622231899",
+        "id": "7614093923316730666",
+        "link": "snssdk1128://live?room_id=7614093923316730666",
+        "title": "新人唱歌直播间，路过进来看看！"
+      },
+      "statistic_info": {
+        "hot_value": 19705
+      }
+    },
+    {
+      "author_info": {
+        "name": "户外小袁²¹⁰❤️"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7381039071161453349?x-expires=1772816400&x-signature=wUk9JNvHM1QOdXnuOilh2QPC3bo%3D&from=2622231899",
+        "id": "7614096575262182150",
+        "link": "snssdk1128://live?room_id=7614096575262182150",
+        "title": "母子组合你们见过吗？"
+      },
+      "statistic_info": {
+        "hot_value": 19655
+      }
+    },
+    {
+      "author_info": {
+        "name": "王雯慧🎤"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7611858605914032922?x-expires=1772816400&x-signature=tXC1aRmGdP32eZVeodkB39IVsR0%3D&from=2622231899",
+        "id": "7614086936730389274",
+        "link": "snssdk1128://live?room_id=7614086936730389274",
+        "title": "进来听歌"
+      },
+      "statistic_info": {
+        "hot_value": 19627
+      }
+    },
+    {
+      "author_info": {
+        "name": "味道（百姓免米嗨歌）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c001_osWqzNMDAhEDIwy6EAygfCrWEne2AAwRBAaABj?x-expires=1772816400&x-signature=eqYqwnQaAE6oaF%2BU8dT9yrmlkno%3D&from=2622231899",
+        "id": "7614090716288961334",
+        "link": "snssdk1128://live?room_id=7614090716288961334",
+        "title": "味道正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 19281
+      }
+    },
+    {
+      "author_info": {
+        "name": "芒果车库"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_713f433c78efceea036c3b7cdffe715e?x-expires=1772816400&x-signature=6scoImM7W7UmGyqxKs5PyPqB8Lc%3D&from=2622231899",
+        "id": "7614088165879515946",
+        "link": "snssdk1128://live?room_id=7614088165879515946",
+        "title": "芒果车库正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 18971
+      }
+    },
+    {
+      "author_info": {
+        "name": "淮安凡哥网络传媒有限公司"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_6c523d5cbef646524e88fff8f649d463?x-expires=1772816400&x-signature=Xpv%2FP2HBJnBwyUdgegFvPSujHY0%3D&from=2622231899",
+        "id": "7614072501454359359",
+        "link": "snssdk1128://live?room_id=7614072501454359359",
+        "title": "抖音大舞台有梦你就来"
+      },
+      "statistic_info": {
+        "hot_value": 18899
+      }
+    },
+    {
+      "author_info": {
+        "name": "小瑞娅⁰²¹⁸"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7607057560151378751?x-expires=1772816400&x-signature=nGoImSp9M1lMFgbsZyHLJDBT9KY%3D&from=2622231899",
+        "id": "7614090991746190134",
+        "link": "snssdk1128://live?room_id=7614090991746190134",
+        "title": "不准喊小孩"
+      },
+      "statistic_info": {
+        "hot_value": 18784
+      }
+    },
+    {
+      "author_info": {
+        "name": "越南的真实生活（森）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7610218887442877193?x-expires=1772816400&x-signature=ZMkCf%2BJUhienJDUNpXdU1MLfHKM%3D&from=2622231899",
+        "id": "7614091468956879643",
+        "link": "snssdk1128://live?room_id=7614091468956879643",
+        "title": "走进越南的生活"
+      },
+      "statistic_info": {
+        "hot_value": 18776
+      }
+    },
+    {
+      "author_info": {
+        "name": "玫瑰玫瑰"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7595161403355581199?x-expires=1772816400&x-signature=C7QIuZ%2FX3Lmi7oWPK28aZwk%2FYcI%3D&from=2622231899",
+        "id": "7614094617580604212",
+        "link": "snssdk1128://live?room_id=7614094617580604212",
+        "title": "哈哈哈哈哈哈"
+      },
+      "statistic_info": {
+        "hot_value": 18720
+      }
+    },
+    {
+      "author_info": {
+        "name": "任多多 福多多"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7609257134303562511?x-expires=1772816400&x-signature=jaZWBZ%2BXw%2BJliMoB%2FiW2mX2BW3I%3D&from=2622231899",
+        "id": "7614071356883225353",
+        "link": "snssdk1128://live?room_id=7614071356883225353",
+        "title": "快撑不住了"
+      },
+      "statistic_info": {
+        "hot_value": 18681
+      }
+    },
+    {
+      "author_info": {
+        "name": "小S老师⁹²¹¹"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c000-ce_oo93duPLiMFKA34AvGC3iAIynh4HAIgEhaBA1?x-expires=1772816400&x-signature=H1SoXwphRip2%2FdJOfJ6T9EFWvBw%3D&from=2622231899",
+        "id": "7614084804358769417",
+        "link": "snssdk1128://live?room_id=7614084804358769417",
+        "title": "我是中年美少女 不是男的"
+      },
+      "statistic_info": {
+        "hot_value": 18644
+      }
+    },
+    {
+      "author_info": {
+        "name": "丽丽民心所向"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_833943565403f4b4af49419fd654261c?x-expires=1772816400&x-signature=9m%2FOd9RuNglD37wy876%2FPbU7oMo%3D&from=2622231899",
+        "id": "7614095221936818990",
+        "link": "snssdk1128://live?room_id=7614095221936818990",
+        "title": "丽丽正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 18619
+      }
+    },
+    {
+      "author_info": {
+        "name": "毛胡子"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c001_f3ac50fa51c64c46849dd6d0062e4dca?x-expires=1772816400&x-signature=L7kBHgIHh8pJku0uXLL2yiFhbbI%3D&from=2622231899",
+        "id": "7614092548772023081",
+        "link": "snssdk1128://live?room_id=7614092548772023081",
+        "title": "毛胡子正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 18438
+      }
+    },
+    {
+      "author_info": {
+        "name": "萱丫头⁵²³³"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813_o4kGIRDAAnD7jgAA2ofCb8ipEADjXQfZ9NyDPA?x-expires=1772816400&x-signature=i44aj9Plpf1w1gkSu6rZvLdfaHM%3D&from=2622231899",
+        "id": "7614093362739596072",
+        "link": "snssdk1128://live?room_id=7614093362739596072",
+        "title": "萱丫头⁵²³³正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 18394
+      }
+    },
+    {
+      "author_info": {
+        "name": "彭妮妮1"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7525047154637802266?x-expires=1772816400&x-signature=b3gEqIBenPoU16k18ZNDxNB0vGU%3D&from=2622231899",
+        "id": "7614074955373775654",
+        "link": "snssdk1128://live?room_id=7614074955373775654",
+        "title": "直播间分享短视频挣米"
+      },
+      "statistic_info": {
+        "hot_value": 18214
+      }
+    },
+    {
+      "author_info": {
+        "name": "思宇🌞"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_6778df829b0705b987d9ea8a556d7f0a?x-expires=1772816400&x-signature=dbxK6QCMR3aPxFY1nkqv0KMUcx0%3D&from=2622231899",
+        "id": "7614091001841388314",
+        "link": "snssdk1128://live?room_id=7614091001841388314",
+        "title": "这里是归属"
+      },
+      "statistic_info": {
+        "hot_value": 18054
+      }
+    },
+    {
+      "author_info": {
+        "name": "大鹏(大双二双)"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7601093743970028338?x-expires=1772816400&x-signature=%2BSMGTUrCbUgG7jdeqzTIp8n0%2BSI%3D&from=2622231899",
+        "id": "7614086135802891034",
+        "link": "snssdk1128://live?room_id=7614086135802891034",
+        "title": "来个神 点点展馆吧"
+      },
+      "statistic_info": {
+        "hot_value": 18014
+      }
+    },
+    {
+      "author_info": {
+        "name": "李斌斌与小提琴"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7293555046665571111?x-expires=1772816400&x-signature=t%2FRoxlSYRAEI5iloYLYIYPJ63m8%3D&from=2622231899",
+        "id": "7614080894445734690",
+        "link": "snssdk1128://live?room_id=7614080894445734690",
+        "title": "百年小提琴演绎经典音乐"
+      },
+      "statistic_info": {
+        "hot_value": 17943
+      }
+    },
+    {
+      "author_info": {
+        "name": "紫妍（晚6点10）"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c001_o8qyLd1EAAAHAevAgEfBZWDzhN40Js6hAACDPI?x-expires=1772816400&x-signature=Os%2FUH01L4lbZz14HXzbUU2Rj54o%3D&from=2622231899",
+        "id": "7614083050292529970",
+        "link": "snssdk1128://live?room_id=7614083050292529970",
+        "title": "紫妍（晚6点10…正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 17704
+      }
+    },
+    {
+      "author_info": {
+        "name": "心里有你"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c001_oIiUItCnAgAQJB9AAEeRfAHAOJ5DJF762Cy3pA?x-expires=1772816400&x-signature=27XGOIJUhAOyxzG4mxzzy0j4z1Y%3D&from=2622231899",
+        "id": "7614090392826104626",
+        "link": "snssdk1128://live?room_id=7614090392826104626",
+        "title": "心里有你正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 17549
+      }
+    },
+    {
+      "author_info": {
+        "name": "沐沐¹⁷⁷"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7320543420324481830?x-expires=1772816400&x-signature=VlepRLUIgMrr8wzpRtQDJI0uQKc%3D&from=2622231899",
+        "id": "7614096950803122971",
+        "link": "snssdk1128://live?room_id=7614096950803122971",
+        "title": "身材打几分？"
+      },
+      "statistic_info": {
+        "hot_value": 17453
+      }
+    },
+    {
+      "author_info": {
+        "name": "飘雪520"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813_oshHWiPoiIsqAYYAvbCGiAODgllWAIWEwZBA3?x-expires=1772816400&x-signature=SEGrqfpjIWrOpTf4bCOykm9aco0%3D&from=2622231899",
+        "id": "7614093618709924614",
+        "link": "snssdk1128://live?room_id=7614093618709924614",
+        "title": "飘雪520正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 17397
+      }
+    },
+    {
+      "author_info": {
+        "name": "夕柔FM"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7453737684138560266?x-expires=1772816400&x-signature=l6HGkiJhwnTvFM4QsGpAK1NdYW4%3D&from=2622231899",
+        "id": "7614091870905338667",
+        "link": "snssdk1128://live?room_id=7614091870905338667",
+        "title": "何以解忧，唯有夕柔"
+      },
+      "statistic_info": {
+        "hot_value": 17357
+      }
+    },
+    {
+      "author_info": {
+        "name": "零点一刻文化"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7165064184672635682?x-expires=1772816400&x-signature=ikIWlRKWRjL7mG3d8MWtd9f7q64%3D&from=2622231899",
+        "id": "7614096050470898470",
+        "link": "snssdk1128://live?room_id=7614096050470898470",
+        "title": "零点一刻2026二次元手办拍卖"
+      },
+      "statistic_info": {
+        "hot_value": 17289
+      }
+    },
+    {
+      "author_info": {
+        "name": "楚吟古筝弹唱✨"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7456727977339030299?x-expires=1772816400&x-signature=p780nE7P9l4HxoatxqjsOSzpsHo%3D&from=2622231899",
+        "id": "7614097671975865126",
+        "link": "snssdk1128://live?room_id=7614097671975865126",
+        "title": "咦？这个妹妹在哪里见过"
+      },
+      "statistic_info": {
+        "hot_value": 17183
+      }
+    },
+    {
+      "author_info": {
+        "name": "龙叔🦩⁸⁰⁸"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_deea416371cab70854af8f2078b5654e?x-expires=1772816400&x-signature=V60KlbefP4LxgEOuNWTUBcUx6Wg%3D&from=2622231899",
+        "id": "7614098276660316982",
+        "link": "snssdk1128://live?room_id=7614098276660316982",
+        "title": "心有猛虎，细嗅蔷薇。"
+      },
+      "statistic_info": {
+        "hot_value": 17027
+      }
+    },
+    {
+      "author_info": {
+        "name": "赵小野☘️312（3月7号两周年庆）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7454886749446130458?x-expires=1772816400&x-signature=KAY%2BBT0DhU9htsNj0wxP2VKWBXw%3D&from=2622231899",
+        "id": "7614065002701851411",
+        "link": "snssdk1128://live?room_id=7614065002701851411",
+        "title": "重生之我在甲田弄做村姑"
+      },
+      "statistic_info": {
+        "hot_value": 17002
+      }
+    },
+    {
+      "author_info": {
+        "name": "星星亮晶晶🌻"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7422442862463306522?x-expires=1772816400&x-signature=vXKe7O4FmK4pl8A9pEKTdWfokmk%3D&from=2622231899",
+        "id": "7614095536278604553",
+        "link": "snssdk1128://live?room_id=7614095536278604553",
+        "title": "嗨！"
+      },
+      "statistic_info": {
+        "hot_value": 16983
+      }
+    },
+    {
+      "author_info": {
+        "name": "张老头[17:20]"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c000-ce_oEnArfUqWwWeBnAIAE6iA6CoiEliEbSd0ZUcAA?x-expires=1772816400&x-signature=Y29UNqRwBy8HjzUg13PTJe5F%2B%2Bc%3D&from=2622231899",
+        "id": "7614070127037909795",
+        "link": "snssdk1128://live?room_id=7614070127037909795",
+        "title": "张老头(下午5点20)正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 16930
+      }
+    },
+    {
+      "author_info": {
+        "name": "江西海龙哥18，10直播唱🎤挑战歌曲"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813_54451aa0663e41b4b554d65c11bd8c1d?x-expires=1772816400&x-signature=BS%2BsXKX7NVTpZbaVO28jYKRbO2M%3D&from=2622231899",
+        "id": "7614084034020363050",
+        "link": "snssdk1128://live?room_id=7614084034020363050",
+        "title": "海龙歌爱唱歌，每…正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 16747
+      }
+    },
+    {
+      "author_info": {
+        "name": "HangHang"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7248112074000698149?x-expires=1772816400&x-signature=RHFouVcuCb%2F27QhKjhJxAY7OSXQ%3D&from=2622231899",
+        "id": "7614096117721991976",
+        "link": "snssdk1128://live?room_id=7614096117721991976",
+        "title": "玩会新游戏.10点日常.2点比赛"
+      },
+      "statistic_info": {
+        "hot_value": 16678
+      }
+    },
+    {
+      "author_info": {
+        "name": "仔仔🎤"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7614092871116901161?x-expires=1772816400&x-signature=sAtIct2ylrC0ELDCwxGiVoBsAUE%3D&from=2622231899",
+        "id": "7614094502193351451",
+        "link": "snssdk1128://live?room_id=7614094502193351451",
+        "title": "谢谢你听我唱歌"
+      },
+      "statistic_info": {
+        "hot_value": 16660
+      }
+    },
+    {
+      "author_info": {
+        "name": "❤️爱新觉罗格格❤️大傻妞❤️"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/webcast-cover/7207453882354551611?x-expires=1772816400&x-signature=06TAgSTdRjjuW%2B0lmWxX5WfglbQ%3D&from=2622231899",
+        "id": "7614093625110121268",
+        "link": "snssdk1128://live?room_id=7614093625110121268",
+        "title": "很高兴认识你"
+      },
+      "statistic_info": {
+        "hot_value": 16604
+      }
+    },
+    {
+      "author_info": {
+        "name": "200斤6姨蜕变日记【早场】"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_c7e1f1de0acf05e09d0eb50a1c6fc303?x-expires=1772816400&x-signature=GP0W%2Brk5SZIHaF3%2BVtMSsnQAwxM%3D&from=2622231899",
+        "id": "7614095644025719578",
+        "link": "snssdk1128://live?room_id=7614095644025719578",
+        "title": "大腿没缝？走路磨裆？85斤怎么没的？"
+      },
+      "statistic_info": {
+        "hot_value": 16595
+      }
+    },
+    {
+      "author_info": {
+        "name": "妞妞🎤(18.18 开播）"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7483645283310553895?x-expires=1772816400&x-signature=5b5la1QnjVIfhqHMDrwSfDrQUrE%3D&from=2622231899",
+        "id": "7614085659942341416",
+        "link": "snssdk1128://live?room_id=7614085659942341416",
+        "title": "没有伞的孩子，唯有努力奔跑"
+      },
+      "statistic_info": {
+        "hot_value": 16574
+      }
+    },
+    {
+      "author_info": {
+        "name": "💘小温柔会发光🍓🌺"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-i-0813c001_oEuMSDgJfAEVwaBnABe0WSChLiADiAArOhAIWx?x-expires=1772816400&x-signature=cJWfVvIXr0ohx1UZUzikZq%2FOjBw%3D&from=2622231899",
+        "id": "7614087835330562831",
+        "link": "snssdk1128://live?room_id=7614087835330562831",
+        "title": "小柔爱腰子正在直播"
+      },
+      "statistic_info": {
+        "hot_value": 16554
+      }
+    },
+    {
+      "author_info": {
+        "name": "小辣娇🎤º³²⁴"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7614086519342680870?x-expires=1772816400&x-signature=oWFf4X%2FoxznmI7KamiVeZP6tVxo%3D&from=2622231899",
+        "id": "7614092518505974574",
+        "link": "snssdk1128://live?room_id=7614092518505974574",
+        "title": "白羊座不让进~"
+      },
+      "statistic_info": {
+        "hot_value": 16445
+      }
+    },
+    {
+      "author_info": {
+        "name": "昊昊"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7275639935401528120?x-expires=1772816400&x-signature=EmpzB40rzIhe%2FyP4uE7QjhRGLZw%3D&from=2622231899",
+        "id": "7614096595164220210",
+        "link": "snssdk1128://live?room_id=7614096595164220210",
+        "title": "十二亚王"
+      },
+      "statistic_info": {
+        "hot_value": 16373
+      }
+    },
+    {
+      "author_info": {
+        "name": "云南四弟"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7599639387732265782?x-expires=1772816400&x-signature=wiJXhB3cx9%2F%2FOPwyx%2Bg9xy%2FNRZs%3D&from=2622231899",
+        "id": "7614087966507764516",
+        "link": "snssdk1128://live?room_id=7614087966507764516",
+        "title": "瑞丽古镇"
+      },
+      "statistic_info": {
+        "hot_value": 16240
+      }
+    },
+    {
+      "author_info": {
+        "name": "西域鲜生供应链"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7566905785419074330?x-expires=1772816400&x-signature=yCvu50PlM9O%2FpqosYlCaNIWvRHE%3D&from=2622231899",
+        "id": "7614092017018129178",
+        "link": "snssdk1128://live?room_id=7614092017018129178",
+        "title": "喀什嗳妃苹果清脆甘甜好吃"
+      },
+      "statistic_info": {
+        "hot_value": 16234
+      }
+    },
+    {
+      "author_info": {
+        "name": "王者荣耀墨凉（国一马可）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7437419820381014822?x-expires=1772816400&x-signature=mLT0Qm9dgs9JGFT6WZFlGYNM8kU%3D&from=2622231899",
+        "id": "7614072300287249161",
+        "link": "snssdk1128://live?room_id=7614072300287249161",
+        "title": "国一马可开播了？真的假的？"
+      },
+      "statistic_info": {
+        "hot_value": 16220
+      }
+    },
+    {
+      "author_info": {
+        "name": "新湖南大舞台"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_bec43c382a2f00328785972928972376?x-expires=1772816400&x-signature=29JFK1X2NSIdwVCEwr7ffLJT%2Bnk%3D&from=2622231899",
+        "id": "7614098082388642602",
+        "link": "snssdk1128://live?room_id=7614098082388642602",
+        "title": "新湖南大舞台"
+      },
+      "statistic_info": {
+        "hot_value": 16186
+      }
+    },
+    {
+      "author_info": {
+        "name": "小茶胡⁹³¹³"
+      },
+      "base_info": {
+        "cover": "https://p11-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_2b5a9f17ac2f32a78ed0776f5efaf22b?x-expires=1772816400&x-signature=vPPY739MS%2F1yhAHHQNOfZEl7XFU%3D&from=2622231899",
+        "id": "7614093169273211654",
+        "link": "snssdk1128://live?room_id=7614093169273211654",
+        "title": "主播地址：广东省深圳市……展…"
+      },
+      "statistic_info": {
+        "hot_value": 16165
+      }
+    },
+    {
+      "author_info": {
+        "name": "红苹果🍎"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7546401612824709898?x-expires=1772816400&x-signature=1PkiXuzxiSKc0hV8cLMA%2FEd9cD0%3D&from=2622231899",
+        "id": "7614093878798388006",
+        "link": "snssdk1128://live?room_id=7614093878798388006",
+        "title": "进直播间的宝子们必发财🎊🎊"
+      },
+      "statistic_info": {
+        "hot_value": 16025
+      }
+    },
+    {
+      "author_info": {
+        "name": "王晓宇🎙️"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/aweme-avatar/tos-cn-avt-0015_0d36df1ce8039fb5815d4bdc3e807960?x-expires=1772816400&x-signature=QONqKxDcch8B%2BjUS7MsGEQLVU9Q%3D&from=2622231899",
+        "id": "7614052643782265652",
+        "link": "snssdk1128://live?room_id=7614052643782265652",
+        "title": "才艺上麦（不谈恋爱）"
+      },
+      "statistic_info": {
+        "hot_value": 15980
+      }
+    },
+    {
+      "author_info": {
+        "name": "🔥杰哥:工程一站式服务"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7372534675048287013?x-expires=1772816400&x-signature=zCQ3NVHc1LnsAGm3gOwyY%2BsWZ6c%3D&from=2622231899",
+        "id": "7614075728736733961",
+        "link": "snssdk1128://live?room_id=7614075728736733961",
+        "title": "32装修杰哥首播破百"
+      },
+      "statistic_info": {
+        "hot_value": 15907
+      }
+    },
+    {
+      "author_info": {
+        "name": "𝑇.赵俊杰🐰⁰⁶¹⁸（Lucky）"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7602218488264330034?x-expires=1772816400&x-signature=BTH%2FlHpXBSh%2FP02heSCgZcfNaCE%3D&from=2622231899",
+        "id": "7614095518595107611",
+        "link": "snssdk1128://live?room_id=7614095518595107611",
+        "title": "说我干嘛我又没承认！"
+      },
+      "statistic_info": {
+        "hot_value": 15845
+      }
+    },
+    {
+      "author_info": {
+        "name": "中仓董事长"
+      },
+      "base_info": {
+        "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7606189789330590464?x-expires=1772816400&x-signature=uHkhcSDksXhXpKOnE14yVkVt%2BUc%3D&from=2622231899",
+        "id": "7614071414736980762",
+        "link": "snssdk1128://live?room_id=7614071414736980762",
+        "title": "中仓董事长开播聊天了"
+      },
+      "statistic_info": {
+        "hot_value": 15753
+      }
+    },
+    {
+      "author_info": {
+        "name": "毛刚大舞台（招艺人）"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7401807681822083866?x-expires=1772816400&x-signature=NheYi3WN%2B6mUJSeDyN5aEMRpSbA%3D&from=2622231899",
+        "id": "7614095093439662854",
+        "link": "snssdk1128://live?room_id=7614095093439662854",
+        "title": "新年首播"
+      },
+      "statistic_info": {
+        "hot_value": 15733
+      }
+    },
+    {
+      "author_info": {
+        "name": "雯雯有氧健身运动"
+      },
+      "base_info": {
+        "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7578096166898879251?x-expires=1772816400&x-signature=kuPsWXXJWzNWOszwZEeEw1XxNgA%3D&from=2622231899",
+        "id": "7614095648572345124",
+        "link": "snssdk1128://live?room_id=7614095648572345124",
+        "title": "0基础随进随练，课程瘦肚子瘦全身#减脂#健身操#有氧#减肥"
+      },
+      "statistic_info": {
+        "hot_value": 15499
+      }
+    },
+    {
+      "author_info": {
+        "name": "奔跑吧鱼儿"
+      },
+      "base_info": {
+        "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7591459698675764006?x-expires=1772816400&x-signature=8Cl45zBn3SpJjD%2BI3h9%2BXOLwOeY%3D&from=2622231899",
+        "id": "7614096822547598132",
+        "link": "snssdk1128://live?room_id=7614096822547598132",
+        "title": "广西南宁！"
+      },
+      "statistic_info": {
+        "hot_value": 15487
+      }
+    }
+  ],
+  "status_code": 0,
+  "status_msg": ""
+}
